@@ -1,0 +1,1329 @@
+
+9784120|t|Arabidopsis thaliana: a model plant for genome analysis.
+9784120|a|Arabidopsis thaliana is a small plant in the mustard family that has become the model system of choice for research in plant biology. Significant advances in understanding plant growth and development have been made by focusing on the molecular genetics of this simple angiosperm. The 120-megabase genome of Arabidopsis is organized into five chromosomes and contains an estimated 20,000 genes. More than 30 megabases of annotated genomic sequence has already been deposited in GenBank by a consortium of laboratories in Europe, Japan, and the United States. The entire genome is scheduled to be sequenced by the end of the year 2000. Reaching this milestone should enhance the value of Arabidopsis as a model for plant biology and the analysis of complex organisms in general.
+9784120	0	20	Arabidopsis thaliana	Species	3702
+9784120	57	77	Arabidopsis thaliana	Species	3702
+9784120	365	376	Arabidopsis	Species	3702
+9784120	744	755	Arabidopsis	Species	3702
+
+29656930|t|DNA N6-Adenine Methylation in Arabidopsis thaliana.
+29656930|a|DNA methylation on N6-adenine (6mA) has recently been found to be a potentially epigenetic mark in several unicellular and multicellular eukaryotes. However, its distribution patterns and potential functions in land plants, which are primary producers for most ecosystems, remain largely unknown. Here we report global profiling of 6mA sites at single-nucleotide resolution in the genome of Arabidopsis thaliana at different developmental stages using single-molecule real-time sequencing. 6mA sites are widely distributed across the Arabidopsis genome and enriched over the pericentromeric heterochromatin regions. 6mA occurs more frequently in gene bodies than intergenic regions. Analysis of 6mA methylomes and RNA sequencing data demonstrates that 6mA frequency positively correlates with the gene expression level and the transition from vegetative to reproductive growth in Arabidopsis. Our results uncover 6mA as a DNA mark associated with actively expressed genes in Arabidopsis, suggesting that 6mA serves as a hitherto unknown epigenetic mark in land plants.
+29656930	4	14	N6-Adenine	Chemical	-
+29656930	30	50	Arabidopsis thaliana	Species	3702
+29656930	71	81	N6-adenine	Chemical	-
+29656930	83	86	6mA	Chemical	-
+29656930	263	274	land plants	Species	3193
+29656930	443	463	Arabidopsis thaliana	Species	3702
+29656930	586	597	Arabidopsis	Species	3702
+29656930	932	943	Arabidopsis	Species	3702
+29656930	1027	1038	Arabidopsis	Species	3702
+29656930	1108	1119	land plants	Species	3193
+
+28992087|t|Fine-tuning timing: natural variation informs the mechanistic basis of the switch to flowering in Arabidopsis thaliana.
+28992087|a|The evolution of diverse life history strategies has allowed Arabidopsis thaliana to adapt to worldwide locations, spanning a range of latitudinal and environmental conditions. Arabidopsis thaliana accessions are either vernalization-requiring winter annuals or rapid cyclers, with extensive natural variation in vernalization requirement and response. Genetic and molecular analysis of this variation has enhanced our understanding of the mechanisms involved in life history determination, with translation to both natural and crop systems in the Brassicaceae and beyond.
+28992087	98	118	Arabidopsis thaliana	Species	3702
+28992087	181	201	Arabidopsis thaliana	Species	3702
+28992087	297	317	Arabidopsis thaliana	Species	3702
+
+30561727|t|Linking genes with ecological strategies in Arabidopsis thaliana.
+30561727|a|Arabidopsis thaliana is the most prominent model system in plant molecular biology and genetics. Although its ecology was initially neglected, collections of various genotypes revealed a complex population structure, with high levels of genetic diversity and substantial levels of phenotypic variation. This helped identify the genes and gene pathways mediating phenotypic change. Population genetics studies further demonstrated that this variation generally contributes to local adaptation. Here, we review evidence showing that traits affecting plant life history, growth rate, and stress reactions are not only locally adapted, they also often co-vary. Co-variation between these traits indicates that they evolve as trait syndromes, and reveals the ecological diversification that took place within A. thaliana. We argue that examining traits and the gene that control them within the context of global summary schemes that describe major ecological strategies will contribute to resolve important questions in both molecular biology and ecology.
+30561727	44	64	Arabidopsis thaliana	Species	3702
+30561727	66	86	Arabidopsis thaliana	Species	3702
+30561727	870	881	A. thaliana	Species	3702
+
+29862511|t|Archaic lineages broaden our view on the history of Arabidopsis thaliana.
+29862511|a|Contents Summary 1194 I. Introduction 1194 II. Origin of the A. thaliana species 1194 III. The classic model of the history of A. thaliana 1195 IV. New genomic data from outside Eurasia challenge our view of A. thaliana history 1195 V. Conclusions 1197 Acknowledgements 1197 References 1197 SUMMARY: Natural variation in Arabidopsis thaliana has contributed to discoveries in diverse areas of plant biology. While A. thaliana has typically been considered a weed associated primarily with human-mediated environments, including agricultural and urban sites and railways, it has recently been shown that it is also native in remote natural areas, including high altitude sites in Eurasia and Africa, from the Atlas mountains in Morocco to the afro-alpine regions in Eastern and South Africa to Yunnan in China, the Himalayas and the Tibetan Plateau. This finding suggests that while A. thaliana has been extensively studied in Europe and Western Asia there are still many open questions about its population history, genotype-phenotype relationships and mechanisms of adaptation.
+29862511	52	72	Arabidopsis thaliana	Species	3702
+29862511	135	146	A. thaliana	Species	3702
+29862511	201	212	A. thaliana	Species	3702
+29862511	252	259	Eurasia	Disease	
+29862511	282	293	A. thaliana	Species	3702
+29862511	395	415	Arabidopsis thaliana	Species	3702
+29862511	488	499	A. thaliana	Species	3702
+29862511	563	568	human	Species	9606
+29862511	753	760	Eurasia	Disease	
+29862511	821	827	alpine	Species	111901
+29862511	956	967	A. thaliana	Species	3702
+
+26281359|t|[Arabidopsis thaliana accessions - a tool for biochemical and phylogentical studies].
+26281359|a|Arabidopsis thaliana since a few decades is used as a model for biological and plant genetic research. Natural variation of this species is related to its geographical range which covers different climate zones and habitats. The ability to occupy such a wide area by Arabidopsis is possible due to its stress tolerance and adaptability. Arabidopsis accessions exhibit phenotypic and genotypic variation, which is a result of adaptation to local environmental conditions. During development, plants are subjected to various stress factors. Plants show a spectrum of reactions, processes and phenomena that determine their survival in these adverse conditions. The response of plants to stress involves signal detection and transmission. These reactions are different and depend on the stressor, its intensity, plant species and life strategy. It is assumed that the populations of the same species from different geographical regions acclimated to the stress conditions develop a set of alleles, which allow them to grow and reproduce. Therefore, the study of natural variation in response to abiotic stress among Arabidopsis thaliana accessions allows to find key genes or alleles, and thus the mechanisms by which plants cope with adverse physical and chemical conditions. This paper presents an overview of recent findings, tools and research directions used in the study of natural variation in Arabidopsis thaliana accessions. Additionally, we explain why accessions can be used in the phylogenetic analyses and to study demography and migration of Arabidopsis thaliana.
+26281359	1	21	Arabidopsis thaliana	Species	3702
+26281359	86	106	Arabidopsis thaliana	Species	3702
+26281359	353	364	Arabidopsis	Species	3702
+26281359	423	434	Arabidopsis	Species	3702
+26281359	1199	1219	Arabidopsis thaliana	Species	3702
+26281359	1484	1504	Arabidopsis thaliana	Species	3702
+26281359	1639	1659	Arabidopsis thaliana	Species	3702
+
+32067033|t|Genetic and molecular basis of floral induction in Arabidopsis thaliana.
+32067033|a|Many plants synchronise their life cycles in response to changing seasons and initiate flowering under favourable environmental conditions to ensure reproductive success. To confer a robust seasonal response, plants use diverse genetic programs that integrate environmental and endogenous cues and converge on central floral regulatory hubs. Technological advances have allowed us to understand these complex processes more completely. Here, we review recent progress in our understanding of genetic and molecular mechanisms that control flowering in Arabidopsis thaliana.
+32067033	51	71	Arabidopsis thaliana	Species	3702
+32067033	624	644	Arabidopsis thaliana	Species	3702
+
+31768604|t|Computational systems biology of cellular processes in Arabidopsis thaliana: an overview.
+31768604|a|Systems biology strives for gaining an understanding of biological phenomena by studying the interactions of different parts of a system and integrating the knowledge obtained into the current view of the underlying processes. This is achieved by a tight combination of quantitative experimentation and computational modeling. While there is already a large quantity of systems biology studies describing human, animal and especially microbial cell biological systems, plant biology has been lagging behind for many years. However, in the case of the model plant Arabidopsis thaliana, the steadily increasing amount of information on the levels of its genome, proteome and on a variety of its metabolic and signalling pathways is progressively enabling more researchers to construct models for cellular processes for the plant, which in turn encourages more experimental data to be generated, showing also for plant sciences how fruitful systems biology research can be. In this review, we provide an overview over some of these recent studies which use different systems biological approaches to get a better understanding of the cell biology of A. thaliana. The approaches used in these are genome-scale metabolic modeling, as well as kinetic modeling of metabolic and signalling pathways. Furthermore, we selected several cases to exemplify how the modeling approaches have led to significant advances or new perspectives in the field.
+31768604	55	75	Arabidopsis thaliana	Species	3702
+31768604	495	500	human	Species	9606
+31768604	653	673	Arabidopsis thaliana	Species	3702
+31768604	1237	1248	A. thaliana	Species	3702
+
+15534322|t|The Arabidopsis thaliana clock.
+15534322|a|A combination of forward and reverse genetic approaches together with transcriptome-scale gene expression analyses have allowed the elaboration of a model for the Arabidopsis thaliana circadian clock. The working model largely conforms to the expected negative feedback loop model that has emerged from studies in other model systems. Although a core loop has emerged, it is clear that additional components remain to be identified and that the workings of the Arabidopsis clock have been established only in outline. Similarly, the details of resetting by light and temperature are only incompletely known. In contrast, the mechanism of photoperiodic induction of flowering is known in considerable detail and is consistent with the external coincidence model.
+15534322	4	24	Arabidopsis thaliana	Species	3702
+15534322	195	215	Arabidopsis thaliana	Species	3702
+15534322	493	504	Arabidopsis	Species	3702
+
+15832382|t|How and when did Arabidopsis thaliana become highly self-fertilising.
+15832382|a|Changes in breeding system are a regular evolutionary change in plants, as self-fertilisation is often advantageous, particularly for weedy and colonising species. The adoption of Arabidopsis thaliana as a plant model species has led to interest in how self-incompatibility was lost so that this species became highly inbreeding. Molecular evolutionary approaches have recently focused on investigating two loci involved in the incompatibility recognition process in related Arabidopsis species; non-functional copies of these genes still exist in A. thaliana. New work studying polymorphism at these loci found strikingly low diversity at one of them, suggesting that spread of a mutation in this gene might have caused self-compatibility in an ancestor of A. thaliana. However, it is difficult to be sure of the time when the selfing habit evolved in the lineage that led to A. thaliana.
+15832382	17	37	Arabidopsis thaliana	Species	3702
+15832382	250	270	Arabidopsis thaliana	Species	3702
+15832382	545	556	Arabidopsis	Species	3702
+15832382	618	629	A. thaliana	Species	3702
+15832382	828	839	A. thaliana	Species	3702
+15832382	947	958	A. thaliana	Species	3702
+
+32202470|t|Abscisic acid suppresses thermomorphogenesis in Arabidopsis thaliana.
+32202470|a|Arabidopsis thaliana seedlings exhibit longer hypocotyls when they are grown under high ambient temperature, which is defined as thermomorphogenesis. Although it is well established that high temperature triggers auxin biosynthesis to stimulate hypocotyl elongation, the physiological functions of other endogenous phytohormones during thermomorphogenesis are still elusive. Here, we report that exogenous application of abscisic acid (ABA) strongly inhibits hypocotyl elongation under high ambient temperature. Hypocotyl elongations of ABA biosynthesis deficient mutants are more sensitive to high temperature, suggesting that endogenous ABA has a robust inhibition effect. Moreover, blocking ABA perception or signaling impedes the negative effect of ABA. Finally, we show that ABA also suppresses the hypersensitivity to high temperature of an auxin over-accumulation mutant (yuc1D), indicating that activation of auxin signaling is not sufficient to override the repression by ABA. Taken together, we demonstrate that ABA is a negative regulator during plant thermomorphogenesis.
+32202470	0	13	Abscisic acid	Chemical	MESH:D000040
+32202470	48	68	Arabidopsis thaliana	Species	3702
+32202470	70	90	Arabidopsis thaliana	Species	3702
+32202470	283	288	auxin	Chemical	MESH:D007210
+32202470	491	504	abscisic acid	Chemical	MESH:D000040
+32202470	506	509	ABA	Chemical	MESH:D000040
+32202470	607	610	ABA	Chemical	MESH:D000040
+32202470	709	712	ABA	Chemical	MESH:D000040
+32202470	764	767	ABA	Chemical	MESH:D000040
+32202470	823	826	ABA	Chemical	MESH:D000040
+32202470	850	853	ABA	Chemical	MESH:D000040
+32202470	874	890	hypersensitivity	Disease	MESH:D004342
+32202470	1051	1054	ABA	Chemical	MESH:D000040
+32202470	1092	1095	ABA	Chemical	MESH:D000040
+
+9006065|t|Organization and cell differentiation in lateral roots of Arabidopsis thaliana.
+9006065|a|Lateral root formation in plants involves the stimulation of mature pericycle cells to proliferate and redifferentiate to create a new organ. The simple organization of the root of Arabidopsis thaliana allows the development of lateral root primordia to be characterized histologically. We have divided the process of lateral root development into 8 stages defined by specific anatomical characteristics and cell divisions. To identify the cell types in the developing primordium we have generated a collection of marker lines that express beta-glucuronidase in a tissue- or cell type-specific manner in the root. Using these tools we have constructed a model describing the lineage of each cell type in the lateral root. These studies show that organization and cell differentiation in the lateral root primordia precede the appearance of a lateral root meristem, with differential gene expression apparent after the first set of divisions of the pericycle.
+9006065	58	78	Arabidopsis thaliana	Species	3702
+9006065	261	281	Arabidopsis thaliana	Species	3702
+
+30288705|t|Natural Variation in Freezing Tolerance and Cold Acclimation Response in Arabidopsis thaliana and Related Species.
+30288705|a|During low-temperature exposure, temperate plant species increase their freezing tolerance in a process termed cold acclimation. The molecular mechanisms involved in cold acclimation have been mostly investigated in Arabidopsis thaliana. In addition, other Brassicaceae species related to A. thaliana have been employed in recent years to study plant stress responses on a phylogenetically broader basis and in some cases with extremophile species with a much higher stress tolerance. In this paper, we briefly summarize cold acclimation responses in A. thaliana and current knowledge about cold acclimation in A. thaliana relatives with special emphasis on Eutrema salsugineum and two closely related Thellungiella species. We then present a transcriptomic and metabolomic analysis of cold acclimation in five A. thaliana and two E. salsugineum accessions that differ widely in their freezing tolerance. Differences in the cold responses of the two species are discussed.
+30288705	73	93	Arabidopsis thaliana	Species	3702
+30288705	331	351	Arabidopsis thaliana	Species	3702
+30288705	404	415	A. thaliana	Species	3702
+30288705	666	677	A. thaliana	Species	3702
+30288705	726	737	A. thaliana	Species	3702
+30288705	773	792	Eutrema salsugineum	Species	72664
+30288705	926	937	A. thaliana	Species	3702
+30288705	946	960	E. salsugineum	Species	72664
+
+20033445|t|Arabidopsis thaliana as a model for functional nectary analysis.
+20033445|a|Nectaries and nectar have received much research attention for well over 200 years due to their central roles in plant-pollinator interactions. Despite this, only a few genes have demonstrated impacts on nectary development, and none have been reported to mediate de novo nectar production. This scarcity of information is largely due to the lack of a model that combines sizeable nectaries, and high levels of nectar production, along with suitable genomics resources. For example, even though Arabidopsis thaliana has been useful for developmental studies, it has been largely overlooked as a model for studying nectary function due to the small size of its flowers. However, Arabidopsis nectaries, along with those of related species, are quite operational and can be used to discern molecular mechanisms of nectary form and function. A current understanding of the machinery underlying nectary function in plants is briefly presented, with emphasis placed on the prospects of using Arabidopsis as a model for studying these processes.
+20033445	0	20	Arabidopsis thaliana	Species	3702
+20033445	560	580	Arabidopsis thaliana	Species	3702
+20033445	743	754	Arabidopsis	Species	3702
+20033445	1051	1062	Arabidopsis	Species	3702
+
+22995285|t|A survey of dominant mutations in Arabidopsis thaliana.
+22995285|a|Following the recent publication of a comprehensive dataset of 2400 genes with a loss-of-function mutant phenotype in Arabidopsis (Arabidopsis thaliana), questions remain concerning the diversity of dominant mutations in Arabidopsis. Most of these dominant phenotypes are expected to result from inappropriate gene expression, novel protein function, or disrupted protein complexes. This review highlights the major classes of dominant mutations observed in model organisms and presents a collection of 200 Arabidopsis genes associated with a dominant or semidominant phenotype. Emphasis is placed on mutants identified through forward genetic screens of mutagenized or activation-tagged populations. These datasets illustrate the variety of genetic changes and protein functions that underlie dominance in Arabidopsis and may ultimately contribute to phenotypic variation in flowering plants.
+22995285	34	54	Arabidopsis thaliana	Species	3702
+22995285	174	185	Arabidopsis	Species	3702
+22995285	187	207	Arabidopsis thaliana	Species	3702
+22995285	277	288	Arabidopsis	Species	3702
+22995285	352	365	inappropriate	Disease	MESH:D007177
+22995285	563	574	Arabidopsis	Species	3702
+22995285	863	874	Arabidopsis	Species	3702
+22995285	932	948	flowering plants	Species	3398
+
+17005266|t|Arabidopsis thaliana--a model organism to study plant peroxisomes.
+17005266|a|In higher plants, peroxisomes have been believed to play a pivotal role in three metabolic pathways, which are lipid breakdown, photorespiration and H2O2-detoxificaton. Recently, significant progress in the study of plant peroxisomes was established by forward-/reverse-genetics and post-genomic approaches using Arabidopsis thaliana, the first higher plant to have its entire genome sequenced. These studies illustrated that plant peroxisomes have more diverse functions than we previously thought. Research using Arabidopsis thaliana is improving our understanding of the function of plant peroxisomes.
+17005266	0	20	Arabidopsis thaliana	Species	3702
+17005266	70	83	higher plants	Species	3193
+17005266	178	183	lipid	Chemical	MESH:D008055
+17005266	216	220	H2O2	Chemical	MESH:D006861
+17005266	380	400	Arabidopsis thaliana	Species	3702
+17005266	582	602	Arabidopsis thaliana	Species	3702
+
+32134001|t|Crystal structure of Arabidopsis thaliana neutral invertase 2.
+32134001|a|The metabolism of sucrose is of crucial importance for life on Earth. In plants, enzymes called invertases split sucrose into glucose and fructose, contributing to the regulation of metabolic fluxes. Invertases differ in their localization and pH optimum. Acidic invertases present in plant cell walls and vacuoles belong to glycoside hydrolase family 32 (GH32) and have an all-beta structure. In contrast, neutral invertases are located in the cytosol and organelles such as chloroplasts and mitochondria. These poorly understood enzymes are classified into a separate GH100 family. Recent crystal structures of the closely related neutral invertases InvA and InvB from the cyanobacterium Anabaena revealed a predominantly alpha-helical fold with unique features compared with other sucrose-metabolizing enzymes. Here, a neutral invertase (AtNIN2) from the model plant Arabidopsis thaliana was heterologously expressed, purified and crystallized. As a result, the first neutral invertase structure from a higher plant has been obtained at 3.4 A resolution. The hexameric AtNIN2 structure is highly similar to that of InvA, pointing to high evolutionary conservation of neutral invertases.
+32134001	21	41	Arabidopsis thaliana	Species	3702
+32134001	81	88	sucrose	Chemical	MESH:D013395
+32134001	176	183	sucrose	Chemical	MESH:D013395
+32134001	189	196	glucose	Chemical	MESH:D005947
+32134001	201	209	fructose	Chemical	MESH:D005632
+32134001	388	417	glycoside hydrolase family 32	Gene	829893
+32134001	419	423	GH32	Gene	829893
+32134001	847	854	sucrose	Chemical	MESH:D013395
+32134001	933	953	Arabidopsis thaliana	Species	3702
+
+32825779|t|Arabidopsis thaliana cbp80, c2h2, and flk Knockout Mutants Accumulate Increased Amounts of Circular RNAs.
+32825779|a|Circular RNAs (circRNAs) are the products of the non-canonical splicing of pre-mRNAs. In contrast to humans and animals, our knowledge of the biogenesis and function of circRNAs in plants is very scarce. To identify proteins involved in plant circRNA generation, we characterized the transcriptomes of 18 Arabidopsis thaliana knockout mutants for genes related to splicing. The vast majority (>90%) of circRNAs were formed in more than one variant; only a small fraction of circRNAs was mutant-specific. Five times more circRNA types were identified in cbp80 and three times more in c2h2 mutants than in the wild-type. We also discovered that in cbp80, c2h2 and flk mutants, the accumulation of circRNAs was significantly increased. The increased accumulation of circular transcripts was not accompanied by corresponding changes in the accumulation of linear transcripts. Our results indicate that one of the roles of CBP80, C2H2 and FLK in splicing is to ensure the proper order of the exons. In the absence of one of the above-mentioned factors, the process might be altered, leading to the production of circular transcripts. This suggests that the transition toward circRNA production can be triggered by factors sequestering these proteins. Consequently, the expression of linear transcripts might be regulated through circRNA production.
+32825779	0	20	Arabidopsis thaliana	Species	3702
+32825779	21	26	cbp80	Gene	815840
+32825779	28	32	c2h2	Gene	830313
+32825779	38	41	flk	Gene	819619
+32825779	207	213	humans	Species	9606
+32825779	411	431	Arabidopsis thaliana	Species	3702
+32825779	659	664	cbp80	Gene	815840
+32825779	689	693	c2h2	Gene	830313
+32825779	752	757	cbp80	Gene	815840
+32825779	759	763	c2h2	Gene	830313
+32825779	768	771	flk	Gene	819619
+32825779	1024	1029	CBP80	Gene	815840
+32825779	1031	1035	C2H2	Gene	830313
+32825779	1040	1043	FLK	Gene	819619
+
+23473981|t|The flavonoid biosynthetic pathway in Arabidopsis: structural and genetic diversity.
+23473981|a|Flavonoids are representative plant secondary products. In the model plant Arabidopsis thaliana, at least 54 flavonoid molecules (35 flavonols, 11 anthocyanins and 8 proanthocyanidins) are found. Scaffold structures of flavonoids in Arabidopsis are relatively simple. These include kaempferol, quercetin and isorhamnetin for flavonols, cyanidin for anthocyanins and epicatechin for proanthocyanidins. The chemical diversity of flavonoids increases enormously by tailoring reactions which modify these scaffolds, including glycosylation, methylation and acylation. Genes responsible for the formation of flavonoid aglycone structures and their subsequent modification reactions have been extensively characterized by functional genomic efforts - mostly the integration of transcriptomics and metabolic profiling followed by reverse genetic experimentation. This review describes the state-of-art of flavonoid biosynthetic pathway in Arabidopsis regarding both structural and genetic diversity, focusing on the genes encoding enzymes for the biosynthetic reactions and vacuole translocation. 
+23473981	4	13	flavonoid	Chemical	MESH:D005419
+23473981	38	49	Arabidopsis	Species	3702
+23473981	85	95	Flavonoids	Chemical	MESH:D005419
+23473981	160	180	Arabidopsis thaliana	Species	3702
+23473981	194	203	flavonoid	Chemical	MESH:D005419
+23473981	218	227	flavonols	Chemical	MESH:D044948
+23473981	232	244	anthocyanins	Chemical	MESH:D000872
+23473981	251	268	proanthocyanidins	Chemical	MESH:D044945
+23473981	304	314	flavonoids	Chemical	MESH:D005419
+23473981	318	329	Arabidopsis	Species	3702
+23473981	367	377	kaempferol	Chemical	MESH:C006552
+23473981	379	388	quercetin	Chemical	MESH:D011794
+23473981	393	405	isorhamnetin	Chemical	MESH:C047368
+23473981	410	419	flavonols	Chemical	MESH:D044948
+23473981	421	429	cyanidin	Chemical	MESH:C017154
+23473981	434	446	anthocyanins	Chemical	MESH:D000872
+23473981	451	462	epicatechin	Chemical	MESH:D002392
+23473981	467	484	proanthocyanidins	Chemical	MESH:D044945
+23473981	512	522	flavonoids	Chemical	MESH:D005419
+23473981	688	697	flavonoid	Chemical	MESH:D005419
+23473981	983	992	flavonoid	Chemical	MESH:D005419
+23473981	1017	1028	Arabidopsis	Species	3702
+
+29608724|t|Higher Rates of Protein Evolution in the Self-Fertilizing Plant Arabidopsis thaliana than in the Out-Crossers Arabidopsis lyrata and Arabidopsis halleri.
+29608724|a|The common transition from out-crossing to self-fertilization in plants decreases effective population size. This is expected to result in a reduced efficacy of natural selection and in increased rates of protein evolution in selfing plants compared with their outcrossing congeners. Prior analyses, based on a very limited number of genes, detected no differences between the rates of protein evolution in the selfing Arabidopsis thaliana compared with the out-crosser Arabidopsis lyrata. Here, we reevaluate this trend using the complete genomes of A. thaliana, A. lyrata, Arabidopsis halleri, and the outgroups Capsella rubella and Thellungiella parvula. Our analyses indicate slightly but measurably higher nonsynonymous divergences (dN), synonymous divergences (dS) and dN/dS ratios in A. thaliana compared with the other Arabidopsis species, indicating that purifying selection is indeed less efficacious in A. thaliana.
+29608724	64	84	Arabidopsis thaliana	Species	3702
+29608724	110	128	Arabidopsis lyrata	Species	59689
+29608724	133	152	Arabidopsis halleri	Species	81970
+29608724	573	593	Arabidopsis thaliana	Species	3702
+29608724	624	642	Arabidopsis lyrata	Species	59689
+29608724	705	716	A. thaliana	Species	3702
+29608724	718	727	A. lyrata	Species	59689
+29608724	729	748	Arabidopsis halleri	Species	81970
+29608724	768	810	Capsella rubella and Thellungiella parvula	Disease	MESH:D012409
+29608724	945	956	A. thaliana	Species	3702
+29608724	981	992	Arabidopsis	Species	3702
+29608724	1068	1079	A. thaliana	Species	3702
+
+31544594|t|Dynamic Transcriptional Profiles of Arabidopsis thaliana Infected by Tomato spotted wilt virus.
+31544594|a|Tomato spotted wilt virus (TSWV) is a negative-stranded RNA virus that infects hundreds of plant species, causing great economic loss. Infected Arabidopsis thaliana plants develop symptoms including chlorosis and wilt, which can lead to cell death. From 9 to 15 days after TSWV infection, symptoms progress through a three-stage process of appearance, severity, and death. In this study, deep sequencing technology was first used to explore gene expression in response to TSWV infection in model plant A. thaliana at different symptom development stages. We found that plant immune defense and protein degradation are induced by TSWV infection and that both inductions became stronger over time. The photosynthesis pathway was attenuated with TSWV infection. Cell wall metabolism had a large extent of downregulation while some genes were upregulated. These results illustrate the dynamic nature of TSWV infection in A. thaliana at the whole-transcriptome level. The link between biological processes and subpathway metabolism was further analyzed. Our study provides new insight into host regulatory networks and dynamic processes in response to TSWV infection.
+31544594	36	56	Arabidopsis thaliana	Species	3702
+31544594	57	65	Infected	Disease	MESH:D007239
+31544594	69	94	Tomato spotted wilt virus	Species	11613
+31544594	96	121	Tomato spotted wilt virus	Species	11613
+31544594	123	127	TSWV	Species	11613
+31544594	231	239	Infected	Disease	MESH:D007239
+31544594	240	260	Arabidopsis thaliana	Species	3702
+31544594	338	343	death	Disease	MESH:D003643
+31544594	369	373	TSWV	Species	11613
+31544594	374	383	infection	Disease	MESH:D007239
+31544594	462	467	death	Disease	MESH:D003643
+31544594	568	572	TSWV	Species	11613
+31544594	573	582	infection	Disease	MESH:D007239
+31544594	598	609	A. thaliana	Species	3702
+31544594	725	729	TSWV	Species	11613
+31544594	730	739	infection	Disease	MESH:D007239
+31544594	839	843	TSWV	Species	11613
+31544594	844	853	infection	Disease	MESH:D007239
+31544594	995	1009	TSWV infection	Disease	MESH:D007239
+31544594	1013	1024	A. thaliana	Species	3702
+31544594	1243	1247	TSWV	Species	11613
+31544594	1248	1257	infection	Disease	MESH:D007239
+
+7980483|t|Arabidopsis thaliana, a plant Drosophila.
+7980483|a|Arabidopsis thaliana is a small cruciferous weed which grows naturally, mainly in Europe. Because of its qualities of small size, rapid growth, low chromosome number and self-fertilisation, I adapted it to aseptic growth in purified agar in sterile test-tubes. I found that it secreted various substances into the medium, but not in type or amount likely to interfere with the expression of biosynthetic mutants. Following X-irradiation of seed, I obtained a number of mutants, including several lethals. One lethal mutant I discovered to be deficient in thiamine synthesis. It was the first biosynthetic mutant to be found in flowering plants.
+7980483	0	20	Arabidopsis thaliana	Species	3702
+7980483	30	40	Drosophila	Species	7227
+7980483	42	62	Arabidopsis thaliana	Species	3702
+7980483	275	279	agar	Chemical	MESH:D000362
+7980483	597	605	thiamine	Chemical	MESH:D013831
+7980483	669	685	flowering plants	Species	3398
+
+28716409|t|From experiment-driven database analyses to database-driven experiments in Arabidopsis thaliana transcription factor research.
+28716409|a|Experiment-driven database analysis is employed in forward genetics to predict the function of genes associated with a mutant phenotype. These analyses subsequently lead to database-driven experiments involving reverse genetics to verify functional predictions based on bioinformatic analyses. Genomic transcription factors (TFs) are key regulators of gene expression by binding to short regulatory sequences and by interacting with other TFs. Currently more than 2400 TFs are predicted for A. thaliana. As DNA-binding proteins they are particularly amenable to database-driven experiments, especially when their binding site specificities are known. Databases are available for predicting binding sites for specific TFs in regulatory sequences. Since most of these bioinformatically identified binding sites may not be functional, additional experiments for identifying the actual in vivo binding sites for TFs are required. Recently, large scale approaches were employed to determine binding sites for many A. thaliana TFs. With these approaches binding sites for 984 unique TFs were determined experimentally. An area deserving further research is proposed for interacting TFs. Most of the A. thaliana genes are under combinatorial control, and in vivo interacting TFs, similar to mammalian TFs, may bind to combinatorial elements in which the binding sites vary from those detected with the single TFs.
+28716409	75	95	Arabidopsis thaliana	Species	3702
+28716409	618	629	A. thaliana	Species	3702
+28716409	1136	1147	A. thaliana	Species	3702
+28716409	1320	1331	A. thaliana	Species	3702
+28716409	1411	1420	mammalian	Species	9606
+
+31228113|t|Transfection of Protoplasts Prepared from Arabidopsis thaliana Leaves for Plant Virus Research.
+31228113|a|Plant viruses use numerous host factors for efficient replication of the viral genome. Protoplasts, plant cells from which cell walls are removed, are the useful system to analyze the virus translation and replication in vivo. Here, we report a protocol for preparation of protoplasts from Arabidopsis thaliana leaves and transfection of plasmids to the protoplasts. Protoplasts isolated from the loss-of-function mutant of viral host factor(s) would be helpful to analyze the function of host factors in virus infection cycles.
+31228113	42	62	Arabidopsis thaliana	Species	3702
+31228113	386	406	Arabidopsis thaliana	Species	3702
+31228113	601	616	virus infection	Disease	MESH:D015658
+
+32459300|t|The ABC transporter G subfamily in Arabidopsis thaliana.
+32459300|a|ABC transporters are ubiquitously present in all kingdoms and mediate the transport of a large spectrum of structurally different compounds. Plants possess high numbers of ABC transporters in relation to other eukaryotes, especially the ABCG subfamily is enlarged. Earlier studies demonstrate that ABCG transporters are involved in important processes influencing plant fitness. This review summarizes the functions of ABCG transporters present in the model plant Arabidopsis thaliana. These transporters take part in diverse processes such as pathogen response, diffusion barrier formation or phytohormone transport. Studies involving knock-out mutations reported pleiotropic phenotypes of the mutants. In some cases, different physiological roles were assigned to the same protein. The actual transported substrate(s) however still remain to be determined for the majority of ABCG transporters. Additionally, the proposed substrate spectrum of different ABCG proteins is not always reflected by sequence identities between ABCG members. Applying only reverse genetics is thereby insufficient to clearly identify the substrate(s). We therefore stress the importance of in vitro studies in addition to in vivo studies in order to i) clarify the substrate identity, ii) determine the transport characteristics including directionality and iii) identify dimerization partners of the half-size proteins, which might in turn affect substrate specificity.
+32459300	35	55	Arabidopsis thaliana	Species	3702
+32459300	427	434	fitness	Disease	MESH:D012640
+32459300	521	541	Arabidopsis thaliana	Species	3702
+
+29663032|t|Arabidopsis: the original plant chassis organism.
+29663032|a|Arabidopsis thaliana (thale cress) has a past, current, and future role in the era of synthetic biology. Arabidopsis is one of the most well-studied plants with a wealth of genomics, genetics, and biochemical resources available for the metabolic engineer and synthetic biologist. Here we discuss the tools and resources that enable the identification of target genes and pathways in Arabidopsis and heterologous expression in this model plant. While there are numerous examples of engineering Arabidopsis for decreased lignin, increased seed oil, increased vitamins, and environmental remediation, this plant has provided biochemical tools for introducing Arabidopsis genes, pathways, and/or regulatory elements into other plants and microorganisms. Arabidopsis is not a vegetative or oilseed crop, but it is as an excellent model chassis for proof-of-concept metabolic engineering and synthetic biology experiments in plants.
+29663032	0	11	Arabidopsis	Species	3702
+29663032	50	61	Arabidopsis	Species	3702
+29663032	155	166	Arabidopsis	Species	3702
+29663032	434	445	Arabidopsis	Species	3702
+29663032	544	555	Arabidopsis	Species	3702
+29663032	570	576	lignin	Chemical	MESH:D008031
+29663032	588	596	seed oil	Chemical	-
+29663032	707	718	Arabidopsis	Species	3702
+29663032	801	812	Arabidopsis	Species	3702
+
+31166333|t|Different irradiances of UV and PAR in the same ratios alter the flavonoid profiles of Arabidopsis thaliana wild types and UV-signalling pathway mutants.
+31166333|a|The UVR8 photoreceptor in Arabidopsis thaliana is specific for ultraviolet-B (UV-B; 280-315 nm) radiation and its activation leads to a number of UV-B acclimation responses, including the accumulation of flavonoids. UVR8 participates in a signaling cascade involving COP1 and HY5 so that the absence of any of these components results in a reduction in the ability of a plant to accumulate flavonoids in response to UV; Cop1 mutants show high dropouts and hy5-ks50 hyh double mutants show very low levels of flavonoids. The predominant phenolics in Arabidopsis thaliana are sinapic acid derivatives as well as non-aclyated quercetin and kaempferol di- and triglycosides containing glucose and rhamnose as glycosylated sugar moieties. How this flavonoid profile in Arabidopsis thaliana is affected by UV radiation, how rapidly these changes occur in changing UV conditions, and which components of the UV-B signalling pathway are involved in rapid UV acclimatization reactions is poorly understood. In the present study, we examined these questions by characterizing the flavonoid profiles of Arabidopsis thaliana signalling mutants and wild types grown under different UV levels of constant UV-B+PAR ratios and then transferring a subset of plants to alternate UV conditions. Results indicate that flavonoid accumulation in Arabidopsis thaliana is triggered by UV and this response is amplified by higher levels of UV but not by all compounds to the same extent. The catechol structure in quercetin seems to be less important than the glycosylation pattern, e.g. having 2 rhamnose moieties in determining responsivity. At low UV+PAR intensities the introduction of UV leads to an initial tendency of increase of flavonoids in the wild types that was detected after 3 days. It took 7 days for these changes to be detected in plants grown under high UV+PAR intensities suggesting a priming of PAR. Thus, the flavonoid profile in Arabidopsis thaliana is altered over time following exposure to UV and PAR, but the functional significance of these changes is currently unclear.
+31166333	65	74	flavonoid	Chemical	MESH:D005419
+31166333	87	107	Arabidopsis thaliana	Species	3702
+31166333	158	162	UVR8	Gene	836506
+31166333	180	200	Arabidopsis thaliana	Species	3702
+31166333	358	368	flavonoids	Chemical	MESH:D005419
+31166333	370	374	UVR8	Gene	836506
+31166333	421	425	COP1	Gene	817857
+31166333	430	433	HY5	Gene	830996
+31166333	544	554	flavonoids	Chemical	MESH:D005419
+31166333	574	578	Cop1	Gene	817857
+31166333	610	613	hy5	Gene	830996
+31166333	662	672	flavonoids	Chemical	MESH:D005419
+31166333	703	723	Arabidopsis thaliana	Species	3702
+31166333	728	740	sinapic acid	Chemical	MESH:C073734
+31166333	777	786	quercetin	Chemical	MESH:D011794
+31166333	791	823	kaempferol di- and triglycosides	Chemical	-
+31166333	835	842	glucose	Chemical	MESH:D005947
+31166333	847	855	rhamnose	Chemical	MESH:D012210
+31166333	872	877	sugar	Chemical	MESH:D000073893
+31166333	897	906	flavonoid	Chemical	MESH:D005419
+31166333	918	938	Arabidopsis thaliana	Species	3702
+31166333	1224	1233	flavonoid	Chemical	MESH:D005419
+31166333	1246	1266	Arabidopsis thaliana	Species	3702
+31166333	1452	1461	flavonoid	Chemical	MESH:D005419
+31166333	1478	1498	Arabidopsis thaliana	Species	3702
+31166333	1621	1629	catechol	Chemical	MESH:C034221
+31166333	1643	1652	quercetin	Chemical	MESH:D011794
+31166333	1726	1734	rhamnose	Chemical	MESH:D012210
+31166333	1866	1876	flavonoids	Chemical	MESH:D005419
+31166333	2060	2069	flavonoid	Chemical	MESH:D005419
+31166333	2081	2101	Arabidopsis thaliana	Species	3702
+
+30102348|t|Transposable Elements Contribute to the Adaptation of Arabidopsis thaliana.
+30102348|a|Transposable elements (TEs) are mobile genetic elements with very high mutation rates that play important roles in shaping genome architecture and regulating phenotypic variation. However, the extent to which TEs influence the adaptation of organisms in their natural habitats is largely unknown. Here, we scanned 201 representative resequenced genomes from the model plant Arabidopsis thaliana and identified 2,311 polymorphic TEs from noncentromeric regions. We found expansion and contraction of different types of TEs in different A. thaliana populations. More importantly, we identified two TE insertions that are likely candidates to play a role in adaptive evolution. Our results highlight the importance of variations in TEs for the adaptation of plants in general in the context of rapid global climate change.
+30102348	54	74	Arabidopsis thaliana	Species	3702
+30102348	450	470	Arabidopsis thaliana	Species	3702
+30102348	611	622	A. thaliana	Species	3702
+
+32462579|t|Apoplastic Fluid Preparation from Arabidopsis thaliana Leaves Upon Interaction with a Nonadapted Powdery Mildew Pathogen.
+32462579|a|Proteins in the extracellular space (apoplast) play a crucial role at the interface between plant cells and their proximal environment. Consequently, it is not surprising that plants actively control the apoplastic proteomic profile in response to biotic and abiotic cues. Comparative quantitative proteomics of plant apoplastic fluids is therefore of general interest in plant physiology. We here describe an efficient method to isolate apoplastic fluids from Arabidopsis thaliana leaves inoculated with a nonadapted powdery mildew pathogen.
+32462579	34	54	Arabidopsis thaliana	Species	3702
+32462579	583	603	Arabidopsis thaliana	Species	3702
+
+24739253|t|Arabidopsis thaliana glucuronosyltransferase in family GT14.
+24739253|a|Arabinogalactan proteins are abundant cell-surface proteoglycans in plants and are involved in many cellular processes including somatic embryogenesis, cell-cell interactions, and cell elongation. We reported a glucuronosyltransferase encoded by Arabidopsis AtGlcAT14A, which catalyzes an addition of glucuronic acid residues to beta-1,3- and beta-1,6-linked galactans of arabinogalactan (Knoch et al. 2013). The knockout mutant of this gene resulted in the enhanced growth rate of hypocotyls and roots of seedlings, suggesting an involvement of AtGlcAT14A in cell elongation. AtGlcAt14A belongs to the family GT14 in the Carbohydrate Active Enzyme database (CAZy; www.cazy.org), in which a total of 11 proteins, including AtGLCAT14A, are classified from Arabidopsis thaliana. In this paper, we report the enzyme activities for the rest of the Arabidopsis GT14 isoforms, analyzed in the same way as for AtGlcAT14A. Evidently, two other Arabidopsis GT14 isoforms, At5g15050 and At2g37585, also possess the glucuronosyltransferase activity adding glucuronic acid residues to beta-1,3- and beta-1,6-linked galactans. Therefore, we named At5g15050 and At2g37585 as AtGlcAT14B and AtGlcAT14C, respectively. 
+24739253	0	20	Arabidopsis thaliana	Species	3702
+24739253	307	318	Arabidopsis	Species	3702
+24739253	319	329	AtGlcAT14A	Gene	833996
+24739253	362	377	glucuronic acid	Chemical	MESH:D020723
+24739253	420	448	galactans of arabinogalactan	Disease	
+24739253	607	617	AtGlcAT14A	Gene	833996
+24739253	638	648	AtGlcAt14A	Gene	833996
+24739253	683	695	Carbohydrate	Chemical	MESH:D002241
+24739253	784	794	AtGLCAT14A	Gene	833996
+24739253	816	836	Arabidopsis thaliana	Species	3702
+24739253	905	916	Arabidopsis	Species	3702
+24739253	964	974	AtGlcAT14A	Gene	833996
+24739253	997	1008	Arabidopsis	Species	3702
+24739253	1106	1121	glucuronic acid	Chemical	MESH:D020723
+24739253	1222	1232	AtGlcAT14B	Gene	831357
+24739253	1237	1247	AtGlcAT14C	Gene	818335
+
+31180345|t|Pattern-Triggered Oxidative Burst and Seedling Growth Inhibition Assays in Arabidopsis thaliana.
+31180345|a|Plants have evolved a robust immune system to perceive pathogens and protect against disease. This paper describes two assays that can be used to measure the strength of immune activation in Arabidopsis thaliana following treatment with elicitor molecules. Presented first is a method for capturing the rapidly-induced and dynamic oxidative burst, which can be monitored using a luminol-based assay. Presented second is a method describing how to measure immune-induced inhibition of seedling growth. These protocols are fast and reliable, do not require specialized training or equipment, and are widely used to understand the genetic basis of plant immunity.
+31180345	75	95	Arabidopsis thaliana	Species	3702
+31180345	288	308	Arabidopsis thaliana	Species	3702
+31180345	476	483	luminol	Chemical	MESH:D008165
+
+26416576|t|Function of polar glycerolipids in flower development in Arabidopsis thaliana.
+26416576|a|The flower lipidome is an unexplored frontier of plant lipid research as compared with the major advances in photosynthetic or storage organs. However, ample evidence from recent molecular biological studies suggests that lipids play crucial roles in coordinating flower development rather than being an inert end product of metabolism. This review summarizes the current understanding of the function of glycerolipids in flower development in Arabidopsis thaliana. 
+26416576	18	31	glycerolipids	Chemical	-
+26416576	57	77	Arabidopsis thaliana	Species	3702
+26416576	134	139	lipid	Chemical	MESH:D008055
+26416576	301	307	lipids	Chemical	MESH:D008055
+26416576	484	497	glycerolipids	Chemical	-
+26416576	523	543	Arabidopsis thaliana	Species	3702
+
+31270545|t|LYK4 is a component of a tripartite chitin receptor complex in Arabidopsis thaliana.
+31270545|a|LysM receptor-like kinases (LYKs) of Arabidopsis thaliana (namely LYK1, LYK4 and LYK5) play a major role in chitin perception and immunity against pathogenic fungi. Chitin-induced heterodimerization of LYK1 and LYK5 has been previously reported, but protein interaction partners of LYK4 have not yet been identified. In this study, by analysing mutants we confirmed a role of LYK4 in chitin perception, and found that the ectodomain of LYK4 homodimerizes and also interacts with the ectodomain of LYK5 in vitro. Pull-down experiments with proteins expressed in protoplasts indicated LYK4-LYK4 and LY4-LYK5 interactions in planta. When protoplasts were treated with chitoheptaose or chitin, a protein complex was immunoprecipitated that appeared to be composed of LYK1, LYK4, and LYK5. Similar experiments with proteins expressed in lyk mutant plants suggested that elicitor treatment induced a physical interaction between LYK1 and LYK5 but not between LYK1 and LYK4. Bimolecular fluorescence complementation experiments substantiated these findings. Overall, our data suggest that LYK4 functions as a LYK5-associated co-receptor or scaffold protein that enhances chitin-induced signaling in Arabidopsis.
+31270545	0	4	LYK4	Gene	816909
+31270545	63	83	Arabidopsis thaliana	Species	3702
+31270545	122	142	Arabidopsis thaliana	Species	3702
+31270545	151	155	LYK1	Gene	821717
+31270545	157	161	LYK4	Gene	816909
+31270545	166	170	LYK5	Gene	817923
+31270545	250	256	Chitin	Chemical	MESH:D002686
+31270545	287	291	LYK1	Gene	821717
+31270545	296	300	LYK5	Gene	817923
+31270545	367	371	LYK4	Gene	816909
+31270545	461	465	LYK4	Gene	816909
+31270545	521	525	LYK4	Gene	816909
+31270545	582	586	LYK5	Gene	817923
+31270545	668	672	LYK4	Gene	816909
+31270545	673	677	LYK4	Gene	816909
+31270545	686	690	LYK5	Gene	817923
+31270545	750	763	chitoheptaose	Chemical	-
+31270545	767	773	chitin	Chemical	MESH:D002686
+31270545	848	852	LYK1	Gene	821717
+31270545	854	858	LYK4	Gene	816909
+31270545	864	868	LYK5	Gene	817923
+31270545	1008	1012	LYK1	Gene	821717
+31270545	1017	1021	LYK5	Gene	817923
+31270545	1038	1042	LYK1	Gene	821717
+31270545	1047	1051	LYK4	Gene	816909
+31270545	1167	1171	LYK4	Gene	816909
+31270545	1249	1255	chitin	Chemical	MESH:D002686
+31270545	1277	1288	Arabidopsis	Species	3702
+
+31362206|t|Characterizing the heat response of Arabidopsis thaliana from the perspective of codon usage bias and translational regulation.
+31362206|a|mRNA translation is carefully regulated at both the initiation and the elongation step. Under heat stress, it is known that particular genes change their expression and translation levels to respond to the environment. Attention has been paid to the detailed mechanisms of how a few proteins work, and little is done to analyze whether the global evolutionary patterns affect the translational changes. Determinants like codon usage bias and its related evolutionary features are less studied in heat stress experiments, especially for plants. Utilizing the RNA-seq and Ribo-seq data of normal and heat-stressed Arabidopsis thaliana generated from a previous study, we conducted gene-level (global) and codon-resolution (local) translation analyses. We studied how codon usage bias and other evolutionary features could impact the translation patterns in the heat response of the plant. We found that the evolutionary features including codon usage bias, tAI, nitrogen cost, and conservation (identity) could affect the global and local translation efficiency. Under heat stress, the optimal and conserved codons are more likely to alter their local translation elongation speed to modulate the global translation of host genes. Meanwhile, we also verified the widely accepted notions that the secondary structures and proline codons could largely slow down the translation rate. Our results revealed the effect of codon usage bias and other evolutionary patterns on the translation regulation under heat stress. Unveiling the effect of these features on translational regulation of plants might be helpful in understanding the relationship and interaction between plants and the environment.
+31362206	36	56	Arabidopsis thaliana	Species	3702
+31362206	740	760	Arabidopsis thaliana	Species	3702
+31362206	1088	1096	nitrogen	Chemical	MESH:D009584
+31362206	1447	1454	proline	Chemical	MESH:D011392
+
+29165807|t|Arabidopsis thaliana plants challenged with uranium reveal new insights into iron and phosphate homeostasis.
+29165807|a|Uranium (U) is a naturally occurring radionuclide that is toxic to plants. It is known to interfere with phosphate nutrition and to modify the expression of iron (Fe)-responsive genes. The transporters involved in the uptake of U from the environment are unknown. Here, we addressed whether IRT1, a high-affinity Fe2+ transporter, could contribute to U uptake in Arabidopsis thaliana. An irt1 null mutant was grown hydroponically in different conditions of Fe bioavailability and phosphate supply, and challenged with uranyl. Several physiological parameters (fitness, photosynthesis) were measured to evaluate the response to U treatment. We found that IRT1 is not a major route for U uptake in our experimental conditions. However, the analysis of irt1 indicated that uranyl interferes with Fe and phosphate homeostasis at different levels. In phosphate-sufficient conditions, the absence of the cation chelator EDTA in the medium has drastic consequences on the physiology of irt1, with important symptoms of Fe deficiency in chloroplasts. These effects are counterbalanced by U, probably because the radionuclide competes with Fe for complexation with phosphate and thus releases active Fe for metabolic and biogenic processes. Our study reveals that challenging plants with U is useful to decipher the complex interplay between Fe and phosphate.
+29165807	0	20	Arabidopsis thaliana	Species	3702
+29165807	44	51	uranium	Chemical	MESH:D014501
+29165807	77	81	iron	Chemical	MESH:D007501
+29165807	86	95	phosphate	Chemical	MESH:D010710
+29165807	109	116	Uranium	Chemical	MESH:D014501
+29165807	146	158	radionuclide	Chemical	MESH:D011868
+29165807	214	223	phosphate	Chemical	MESH:D010710
+29165807	266	270	iron	Chemical	MESH:D007501
+29165807	272	274	Fe	Chemical	MESH:D007501
+29165807	337	338	U	Chemical	MESH:D014501
+29165807	400	404	IRT1	Gene	827713
+29165807	472	492	Arabidopsis thaliana	Species	3702
+29165807	497	501	irt1	Gene	827713
+29165807	566	568	Fe	Chemical	MESH:D007501
+29165807	589	598	phosphate	Chemical	MESH:D010710
+29165807	627	633	uranyl	Chemical	-
+29165807	669	676	fitness	Disease	MESH:D012640
+29165807	763	767	IRT1	Gene	827713
+29165807	793	794	U	Chemical	MESH:D014501
+29165807	859	863	irt1	Gene	827713
+29165807	879	885	uranyl	Chemical	-
+29165807	902	904	Fe	Chemical	MESH:D007501
+29165807	909	918	phosphate	Chemical	MESH:D010710
+29165807	955	964	phosphate	Chemical	MESH:D010710
+29165807	1023	1027	EDTA	Chemical	MESH:D004492
+29165807	1088	1092	irt1	Gene	827713
+29165807	1121	1134	Fe deficiency	Disease	MESH:D007153
+29165807	1213	1225	radionuclide	Chemical	MESH:D011868
+29165807	1240	1242	Fe	Chemical	MESH:D007501
+29165807	1265	1274	phosphate	Chemical	MESH:D010710
+29165807	1300	1302	Fe	Chemical	MESH:D007501
+29165807	1442	1444	Fe	Chemical	MESH:D007501
+29165807	1449	1458	phosphate	Chemical	MESH:D010710
+
+16807821|t|Jasmonate biosynthesis in Arabidopsis thaliana--enzymes, products, regulation.
+16807821|a|Among the plant hormones jasmonic acid and related derivatives are known to mediate stress responses and several developmental processes. Biosynthesis, regulation, and metabolism of jasmonic acid in Arabidopsis thaliana are reviewed, including properties of mutants of jasmonate biosynthesis. The individual signalling properties of several jasmonates are described.
+16807821	0	9	Jasmonate	Chemical	MESH:C011006
+16807821	26	46	Arabidopsis thaliana	Species	3702
+16807821	104	117	jasmonic acid	Chemical	MESH:C011006
+16807821	261	274	jasmonic acid	Chemical	MESH:C011006
+16807821	278	298	Arabidopsis thaliana	Species	3702
+16807821	348	357	jasmonate	Chemical	MESH:C011006
+
+20097845|t|A transgenic self-incompatible Arabidopsis thaliana model for evolutionary and mechanistic studies of crucifer self-incompatibility.
+20097845|a|Molecular genetic studies of self-incompatibility (SI) can be difficult to perform in non-model self-incompatible species. Recently, an Arabidopsis thaliana transgenic model was developed for analysis of the SI system that operates in the Brassicaceae by inter-species transfer of genes encoding the S-locus receptor kinase (SRK) and its ligand, the S-locus cysteine-rich (SCR) protein, which are the determinants of SI specificity in the stigma and pollen, respectively. This article reviews the various ways in which the many advantages of A. thaliana and the extensive tools and resources available in this model species have allowed the use of transgenic self-incompatible SRK-SCR plants to address long-standing issues related to the mechanism and evolution of SI in the Brassicaceae. It also presents the unexpected results of a candidate gene approach aimed at determining if genes related to genes previously reported to be involved in the SI response of Brassica and genes required for disease resistance, which exhibits many similarities to the SI response, are required for SI in A. thaliana. These various studies have provided a novel insight into the basis of specificity in the SRK-SCR interaction, the nature of the signalling cascade that culminates in the inhibition of 'self' pollen, and the physiological and morphological changes that are associated with transitions between the outbreeding and inbreeding modes of mating in the Brassicaceae.
+20097845	31	51	Arabidopsis thaliana	Species	3702
+20097845	184	186	SI	Disease	
+20097845	269	289	Arabidopsis thaliana	Species	3702
+20097845	341	343	SI	Disease	
+20097845	491	499	cysteine	Chemical	MESH:D003545
+20097845	550	552	SI	Disease	
+20097845	675	686	A. thaliana	Species	3702
+20097845	899	901	SI	Disease	
+20097845	1081	1083	SI	Disease	
+20097845	1188	1190	SI	Disease	
+20097845	1218	1220	SI	Disease	
+20097845	1224	1235	A. thaliana	Species	3702
+
+30924595|t|Temporary heat stress suppresses PAMP-triggered immunity and resistance to bacteria in Arabidopsis thaliana.
+30924595|a|Recognition of pathogen-associated molecular patterns (PAMPs) is crucial for plant defence against pathogen attack. The best characterized PAMP is flg22, a 22 amino acid conserved peptide from flagellin protein. In Arabidopsis thaliana, flg22 is recognized by the flagellin sensing 2 (FLS2) receptor. In this study, we focused on biotic stress responses triggered by flg22 after exposure to temporary heat stress (HS). It is important to study the reactions of plants to multiple stress conditions because plants are often exposed simultaneously to a combination of both abiotic and biotic stresses. Transient early production of reactive oxygen species (ROS) is a well-characterized response to PAMP recognition. We demonstrate the strong reduction of flg22-induced ROS production in A. thaliana after HS treatment. In addition, a decrease in FLS2 transcription and a decrease of the FLS2 presence at the plasma membrane are shown after HS. In summary, our data show the strong inhibitory effect of HS on flg22-triggered events in A. thaliana. Subsequently, temporary HS strongly decreases the resistance of A. thaliana to Pseudomonas syringae. We propose that short exposure to high temperature is a crucial abiotic stress factor that suppresses PAMP-triggered immunity, which subsequently leads to the higher susceptibility of plants to pathogens.
+30924595	87	107	Arabidopsis thaliana	Species	3702
+30924595	324	344	Arabidopsis thaliana	Species	3702
+30924595	394	398	FLS2	Gene	834676
+30924595	739	762	reactive oxygen species	Chemical	MESH:D017382
+30924595	764	767	ROS	Chemical	MESH:D017382
+30924595	876	879	ROS	Chemical	MESH:D017382
+30924595	894	905	A. thaliana	Species	3702
+30924595	953	957	FLS2	Gene	834676
+30924595	994	998	FLS2	Gene	834676
+30924595	1141	1152	A. thaliana	Species	3702
+30924595	1218	1229	A. thaliana	Species	3702
+30924595	1233	1253	Pseudomonas syringae	Species	317
+
+30824017|t|Hypomethylated drm1 drm2 cmt3 mutant phenotype of Arabidopsis thaliana is related to auxin pathway impairment.
+30824017|a|DNA methylation carried out by different methyltransferase classes is a relevant epigenetic modification of DNA which plays a relevant role in the development of eukaryotic organisms. Accordingly, in Arabidopsis thaliana loss of DNA methylation due to combined mutations in genes encoding for DNA methyltransferases causes several developmental abnormalities. The present study describes novel growth disorders in the drm1 drm2 cmt3 triple mutant of Arabidopsis thaliana, defective both in maintenance and de novo DNA methylation, and highlights the correlation between DNA methylation and the auxin hormone pathway. By using an auxin responsive reporter gene, we discovered that auxin accumulation and distribution were affected in the mutant compared to the wild type, from embryo to adult plant stage. In addition, we demonstrated that the defective methylation status also affected the expression of genes that regulate auxin hormone pathways from synthesis to transport and signalling and a direct relationship between differentially expressed auxin-related genes and altered auxin accumulation and distribution in embryo, leaf and root was observed. Finally, we provided evidence of the direct and organ-specific modulation of auxin-related genes through the DNA methylation process.
+30824017	15	24	drm1 drm2	Gene	831315
+30824017	50	70	Arabidopsis thaliana	Species	3702
+30824017	311	331	Arabidopsis thaliana	Species	3702
+30824017	442	469	developmental abnormalities	Disease	MESH:D006130
+30824017	505	521	growth disorders	Disease	MESH:D006130
+30824017	529	538	drm1 drm2	Gene	831390;831315
+30824017	561	581	Arabidopsis thaliana	Species	3702
+
+32022960|t|Functional analysis of FRIGIDA using naturally occurring variation in Arabidopsis thaliana.
+32022960|a|The FRIGIDA locus (FRI, AT4G00650) has been extensively studied in Arabidopsis thaliana because of its role creating flowering time diversity. The FRI protein regulates flowering induction by binding partner proteins on its N- and C-terminus domains and creating a supercomplex that promotes transcription of the floral repressor FLC. Despite the knowledge accumulated on FRI, the function of the highly conserved central domain of the protein is still unknown. Functional characterization of naturally occurring DNA polymorphisms can provide useful information about the role of a protein and the localization of its operative domains. In the case of FRI, loss-of-function mutations are positively selected and widespread in nature, making them a powerful tool to study the function of the different domains of the protein. Here we explore natural sequence variation in the FRI locus in more than 1000 Arabidopsis accessions. We identify 127 mutations altering the FRI protein, including 60 that had never been described before. We define 103 different alleles of FRI and study their association with variation in flowering time. We confirm these associations by cloning 22 different alleles and expressing them in a common null genetic background. Our analysis pinpoints two single amino acid changes in the central domain that render the protein non-functional. We show that these two mutations determine the stability and cellular localization of the FRI protein. In summary, our work makes use of natural variants at the FRI locus to help understanding the function of the central domain of the FRI protein.
+32022960	23	30	FRIGIDA	Gene	828044
+32022960	70	90	Arabidopsis thaliana	Species	3702
+32022960	96	103	FRIGIDA	Gene	828044
+32022960	111	114	FRI	Gene	828044
+32022960	159	179	Arabidopsis thaliana	Species	3702
+32022960	239	242	FRI	Gene	828044
+32022960	323	324	C	Chemical	MESH:D002244
+32022960	464	467	FRI	Gene	828044
+32022960	744	747	FRI	Gene	828044
+32022960	967	970	FRI	Gene	828044
+32022960	995	1006	Arabidopsis	Species	3702
+32022960	1058	1061	FRI	Gene	828044
+32022960	1157	1160	FRI	Gene	828044
+32022960	1547	1550	FRI	Gene	828044
+32022960	1618	1621	FRI	Gene	828044
+32022960	1692	1695	FRI	Gene	828044
+
+30892660|t|Identification of Periplasmic Root-Cap Mucilage in Developing Columella Cells of Arabidopsis thaliana.
+30892660|a|Plant roots secrete various substances with diverse functions against both plants and microbes in the rhizosphere. A major secretory substance is root-cap mucilage, whose functions have been well characterized, albeit mainly in crops. However, little is currently known about the developmental mechanisms of root-cap mucilage. Here, we show the accumulation and extrusion of root-cap mucilage in Arabidopsis. We found propidium iodide (PI) stainable structures between the plasma membrane and cell wall in the sixth layer of columella cells (c6) from the quiescent center. Ruthenium red staining and PI staining with calcium ions suggested that the structure comprises in part pectin polysaccharides. Electron microscopy revealed that the structure had a meshwork of electron-dense filaments that resembled periplasmic mucilage in other plants. In the c6 cells, we also observed many large vesicles with denser meshwork filaments to periplasmic mucilage, which likely mediate the transport of mucilage components. Extruded mucilage was observed outside a partially degraded cell wall in the c7 cells. Moreover, we found that the Class IIB NAC transcription factors BEARSKIN1 (BRN1) and BRN2, which are known to regulate the terminal differentiation of columella cells, were required for the efficient accumulation of root-cap mucilage in Arabidopsis. Taken together, our findings reveal the accumulation of and dynamic changes in periplasmic mucilage during columella cell development in Arabidopsis.
+30892660	81	101	Arabidopsis thaliana	Species	3702
+30892660	499	510	Arabidopsis	Species	3702
+30892660	521	537	propidium iodide	Chemical	MESH:D011419
+30892660	676	689	Ruthenium red	Chemical	MESH:D012430
+30892660	720	727	calcium	Chemical	MESH:D002118
+30892660	787	802	polysaccharides	Chemical	MESH:D011134
+30892660	1268	1277	BEARSKIN1	Gene	840223
+30892660	1279	1283	BRN1	Gene	840223
+30892660	1289	1293	BRN2	Gene	826627
+30892660	1441	1452	Arabidopsis	Species	3702
+30892660	1591	1602	Arabidopsis	Species	3702
+
+31228108|t|Reverse Genetic Analysis of Antiviral Resistance Signaling and the Resistance Mechanism in Arabidopsis thaliana.
+31228108|a|Antiviral RNA silencing and the resistance gene-conferred defense response are major antiviral immune systems in plants. Several of the components involved have been genetically or biochemically identified in Arabidopsis thaliana. One powerful tool to dissect antiviral immune systems involves a reverse genetic approach that analyzes Arabidopsis mutant lines with impaired antiviral defense responses. In particular, to better understand the signaling networks involved in the resistance gene-conferred antiviral response in host plants, establishment of mutant lines carrying the homozygous mutant allele and antiviral resistance gene is required. The information on well-characterized defense-related signaling mutant alleles and the PCR-based genotyping method provided in this chapter allows the efficient selection of Arabidopsis mutant lines that can be used to study antiviral resistance signaling networks and resistance mechanisms.
+31228108	91	111	Arabidopsis thaliana	Species	3702
+31228108	322	342	Arabidopsis thaliana	Species	3702
+31228108	448	459	Arabidopsis	Species	3702
+31228108	937	948	Arabidopsis	Species	3702
+
+30528270|t|Changes of alternative splicing in Arabidopsis thaliana grown under different CO2 concentrations.
+30528270|a|Atmospheric CO2 level is one of the most important factors which affect plant growth and crop production. Although many crucial genes and pathways have been identified in response to atmospheric CO2 changes, the integrated and precise mechanisms of plant CO2 response are not well understood. Alternative splicing (AS) is an important gene regulation process that affects many biological processes in plants. However, the AS pattern changes in plants in response to elevated CO2 levels have not yet been investigated. Here, we used RNA-Seq data of Arabidopsis thaliana grown under different CO2 concentration to analyze the global changes in AS. We found that AS increased with the rise in CO2 concentration. Additionally, we identified 345 differentially expressed (DE) genes and 251 differentially alternative splicing (DAS) genes under the elevated CO2 condition. Moreover, the results showed that the expression of most of the DAS genes did not change significantly, indicating that AS can serve as an independent mechanism for gene regulation in response to elevated CO2. Furthermore, our analysis of function categories revealed that the DAS genes were associated mainly with the stimulus response. Overall, this the first study to explore the changes of AS in plants in response to elevated CO2.
+30528270	35	55	Arabidopsis thaliana	Species	3702
+30528270	78	81	CO2	Chemical	-
+30528270	110	113	CO2	Chemical	-
+30528270	293	296	CO2	Chemical	-
+30528270	353	356	CO2	Chemical	-
+30528270	573	576	CO2	Chemical	-
+30528270	646	666	Arabidopsis thaliana	Species	3702
+30528270	689	692	CO2	Chemical	-
+30528270	788	791	CO2	Chemical	-
+30528270	950	953	CO2	Chemical	-
+30528270	1170	1173	CO2	Chemical	-
+30528270	1396	1399	CO2	Chemical	-
+
+30950467|t|An aggregation-induced phosphorescence probe for calcium ion-specific detection and live-cell imaging in Arabidopsis thaliana.
+30950467|a|A molecular probe with aggregation-induced phosphorescence (AIP) properties for calcium ion-specific detection and imaging in vivo was designed. The long-lived phosphorescence caused by calcium-triggered aggregation enables establishment of a first time-gated detection method for calcium ions and long-term imaging in Arabidopsis thaliana.
+30950467	49	56	calcium	Chemical	MESH:D002118
+30950467	105	125	Arabidopsis thaliana	Species	3702
+30950467	187	190	AIP	Disease	MESH:D017118
+30950467	207	214	calcium	Chemical	MESH:D002118
+30950467	313	320	calcium	Chemical	MESH:D002118
+30950467	408	415	calcium	Chemical	MESH:D002118
+30950467	446	466	Arabidopsis thaliana	Species	3702
+
+28155257|t|Cell wall proteome analysis of Arabidopsis thaliana mature stems.
+28155257|a|Plant stems carry flowers necessary for species propagation and need to be adapted to mechanical disturbance and environmental factors. The stem cell walls are different from other organs and can modify their rigidity or viscoelastic properties for the integrity and the robustness required to withstand mechanical impacts and environmental stresses. Plant cell wall is composed of complex polysaccharide networks also containing cell wall proteins (CWPs) crucial to perceive and limit the environmental effects. The CWPs are fundamental players in cell wall remodeling processes, and today, only 86 have been identified from the mature stems of the model plant Arabidopsis thaliana. With a destructive method, this study has enlarged its coverage to 302 CWPs. This new proteome is mainly composed of 27.5% proteins acting on polysaccharides, 16% proteases, 11.6% oxido-reductases, 11% possibly related to lipid metabolism and 11% of proteins with interacting domains with proteins or polysaccharides. Compared to stem cell wall proteomes already available (Brachypodium distachyon, Sacharum officinarum, Linum usitatissimum, Medicago sativa), that of A. thaliana stems has a higher proportion of proteins acting on polysaccharides and of proteases, but a lower proportion of oxido-reductases.
+28155257	31	51	Arabidopsis thaliana	Species	3702
+28155257	275	283	rigidity	Disease	MESH:D009127
+28155257	456	470	polysaccharide	Chemical	MESH:D011134
+28155257	728	748	Arabidopsis thaliana	Species	3702
+28155257	892	907	polysaccharides	Chemical	MESH:D011134
+28155257	972	977	lipid	Chemical	MESH:D008055
+28155257	1051	1066	polysaccharides	Chemical	MESH:D011134
+28155257	1124	1147	Brachypodium distachyon	Species	15368
+28155257	1171	1190	Linum usitatissimum	Species	4006
+28155257	1192	1207	Medicago sativa	Species	3879
+28155257	1218	1229	A. thaliana	Species	3702
+
+32133996|t|Structural and biochemical characterization of mitochondrial citrate synthase 4 from Arabidopsis thaliana.
+32133996|a|Citrate synthase (CS) catalyzes the conversion of oxaloacetate and acetyl coenzyme A into citrate and coenzyme A in the mitochondrial tricarboxylic acid (TCA) cycle. In plants, mitochondrial metabolism, including the TCA cycle, occurs in interaction with photosynthetic metabolism. The controlled regulation of several enzymes in the TCA cycle, such as CS, is important in plants. Here, the first crystal structure of a plant mitochondrial CS, CSY4 from Arabidopsis thaliana (AtCSY4), has been determined. Structural comparison of AtCSY4 with mitochondrial CSs revealed a high level of similarity. Inhibition analysis showed a similar manner of inhibition as in mitochondrial CSs. The effect of oxidation on one of a pair of cysteine residues in AtCSY4 was speculated upon based on the folded structure.
+32133996	61	79	citrate synthase 4	Gene	819042
+32133996	85	105	Arabidopsis thaliana	Species	3702
+32133996	157	169	oxaloacetate	Chemical	MESH:D062907
+32133996	197	204	citrate	Chemical	MESH:D019343
+32133996	241	259	tricarboxylic acid	Chemical	MESH:D014233
+32133996	261	264	TCA	Chemical	MESH:D014233
+32133996	324	327	TCA	Chemical	MESH:D014233
+32133996	441	444	TCA	Chemical	MESH:D014233
+32133996	551	555	CSY4	Gene	819042
+32133996	561	581	Arabidopsis thaliana	Species	3702
+32133996	583	589	AtCSY4	Gene	819042
+32133996	638	644	AtCSY4	Gene	819042
+32133996	832	840	cysteine	Chemical	MESH:D003545
+32133996	853	859	AtCSY4	Gene	819042
+
+10023572|t|The circadian system of Arabidopsis thaliana: forward and reverse genetic approaches.
+10023572|a|It is now widely accepted that autoregulatory circuits involving transcription/translation of clock genes form the molecular basis of the endogenous circadian clock in different organisms. In Arabidopsis thaliana, the RNA-binding protein AtGRP7 (Arabidopsis thaliana glycine-rich protein) has been identified as part of a negative-feedback loop through which AtGRP7 regulates the circadian oscillations of its own transcript. Experimental evidence indicates that this feedback loop also is influenced by another oscillator. Support for this hypothesis comes from the characterization of the clock mutant toc1 (timing of cab expression) and the recent isolation of two candidate clock molecules, LHY (late elongated hypocotyl) and CCA1 (circadian clock associated). TOC1, as well as the LHY and CCA1 oscillatory feedback loops, influence several rhythmic physiological and molecular processes in Arabidopsis, including cyclic Atgrp7 gene expression. We discuss the features of these feedback loops with relation to the organization of the circadian system in Arabidopsis.
+10023572	24	44	Arabidopsis thaliana	Species	3702
+10023572	278	298	Arabidopsis thaliana	Species	3702
+10023572	324	330	AtGRP7	Gene	816705
+10023572	332	352	Arabidopsis thaliana	Species	3702
+10023572	445	451	AtGRP7	Gene	816705
+10023572	690	694	toc1	Gene	836259
+10023572	781	784	LHY	Gene	839341
+10023572	816	820	CCA1	Gene	819296
+10023572	851	855	TOC1	Gene	836259
+10023572	872	875	LHY	Gene	839341
+10023572	880	884	CCA1	Gene	819296
+10023572	981	992	Arabidopsis	Species	3702
+10023572	1011	1017	Atgrp7	Gene	816705
+10023572	1144	1155	Arabidopsis	Species	3702
+
+32552683|t|Cold priming uncouples light- and cold-regulation of gene expression in Arabidopsis thaliana.
+32552683|a|BACKGROUND: The majority of stress-sensitive genes responds to cold and high light in the same direction, if plants face the stresses for the first time. As shown recently for a small selection of genes of the core environmental stress response cluster, pre-treatment of Arabidopsis thaliana with a 24 h long 4  C cold stimulus modifies cold regulation of gene expression for up to a week at 20  C, although the primary cold effects are reverted within the first 24 h. Such memory-based regulation is called priming. Here, we analyse the effect of 24 h cold priming on cold regulation of gene expression on a transcriptome-wide scale and investigate if and how cold priming affects light regulation of gene expression. RESULTS: Cold-priming affected cold and excess light regulation of a small subset of genes. In contrast to the strong gene co-regulation observed upon cold and light stress in non-primed plants, most priming-sensitive genes were regulated in a stressor-specific manner in cold-primed plant. Furthermore, almost as much genes were inversely regulated as co-regulated by a 24 h long 4  C cold treatment and exposure to heat-filtered high light (800 mumol quanta m- 2 s- 1). Gene ontology enrichment analysis revealed that cold priming preferentially supports expression of genes involved in the defence against plant pathogens upon cold triggering. The regulation took place on the cost of the expression of genes involved in growth regulation and transport. On the contrary, cold priming resulted in stronger expression of genes regulating metabolism and development and weaker expression of defence genes in response to high light triggering. qPCR with independently cultivated and treated replicates confirmed the trends observed in the RNASeq guide experiment. CONCLUSION: A 24 h long priming cold stimulus activates a several days lasting stress memory that controls cold and light regulation of gene expression and adjusts growth and defence regulation in a stressor-specific manner.
+32552683	0	4	Cold	Disease	MESH:D000067390
+32552683	72	92	Arabidopsis thaliana	Species	3702
+32552683	365	385	Arabidopsis thaliana	Species	3702
+32552683	822	826	Cold	Disease	MESH:D000067390
+
+32314836|t|Global transcriptome analysis reveals circadian control of splicing events in Arabidopsis thaliana.
+32314836|a|The circadian clock of Arabidopsis thaliana controls many physiological and molecular processes, allowing plants to anticipate daily changes in their environment. However, developing a detailed understanding of how oscillations in mRNA levels are connected to oscillations in co/post-transcriptional processes, such as splicing, has remained a challenge. Here we applied a combined approach using deep transcriptome sequencing and bioinformatics tools to identify novel circadian regulated genes and splicing events. Using a stringent approach, we identified 300 intron retention, 8 exon skipping, 79 alternative 3' splice site usage, 48 alternative 5' splice site usage, and 350 multiple (more than one event type) annotated events under circadian regulation. We also found 7 and 721 novel alternative exonic and intronic events. Depletion of the circadian regulated splicing factor AtSPF30 homolog, resulted in the disruption of a subset of clock controlled splicing events. Altogether, our global circadian RNA-seq coupled with an in silico, event centred, splicing analysis tool offers a new approach for studying the interplay between the circadian clock and the splicing machinery at a global scale. The identification of many circadian regulated splicing events broadens our current understanding of the level of control that the circadian clock has over this co/posttranscriptional regulatory layer.
+32314836	78	98	Arabidopsis thaliana	Species	3702
+32314836	123	143	Arabidopsis thaliana	Species	3702
+
+11836506|t|The art and design of genetic screens: Arabidopsis thaliana.
+11836506|a|Molecular genetic studies rely on well-characterized organisms that can be easily manipulated. Arabidopsis thaliana--the model system of choice for plant biologists--allows efficient analysis of plant function, combining classical genetics with molecular biology. Although the complete sequence of the Arabidopsis genome allows the rapid discovery of the molecular basis of a characterized mutant, functional characterization of the Arabidopsis genome depends on well-designed forward genetic screens, which remain a powerful strategy to identify genes that are involved in many aspects of the plant life cycle.
+11836506	39	59	Arabidopsis thaliana	Species	3702
+11836506	156	176	Arabidopsis thaliana	Species	3702
+11836506	363	374	Arabidopsis	Species	3702
+11836506	494	505	Arabidopsis	Species	3702
+
+30755409|t|QTL Underlying Circadian Clock Parameters Under Seasonally Variable Field Settings in Arabidopsis thaliana.
+30755409|a|The circadian clock facilitates coordination of the internal rhythms of an organism to daily environmental conditions, such as the light-dark cycle of one day. Circadian period length (the duration of one endogenous cycle) and phase (the timing of peak activity) exhibit quantitative variation in natural populations. Here, we measured circadian period and phase in June, July and September in three Arabidopsis thaliana recombinant inbred line populations. Circadian period and phase were estimated from bioluminescence of a genetic construct between a native circadian clock gene (COLD CIRCADIAN RHYTHM RNA BINDING 2) and the reporter gene (LUCIFERASE) after lines were entrained under field settings. Using a Bayesian mapping approach, we estimated the median number and effect size of genomic regions (Quantitative Trait Loci, QTL) underlying circadian parameters and the degree to which these regions overlap across months of the growing season. We also tested for QTL associations between the circadian clock and plant morphology. The genetic architecture of circadian phase was largely independent across months, as evidenced by the fact that QTL determining phase values in one month of the growing season were different from those determining phase in a second month. QTL for circadian parameters were shared with both cauline and rosette branching in at least one mapping population. The results provide insights into the QTL architecture of the clock under field settings, and suggest that the circadian clock is highly responsive to changing environments and that selection can act on clock phase in a nuanced manner.
+30755409	86	106	Arabidopsis thaliana	Species	3702
+30755409	508	528	Arabidopsis thaliana	Species	3702
+
+30067446|t|The duration of ethanol-induced high-salinity stress tolerance in Arabidopsis thaliana.
+30067446|a|High-salinity stress affects plant growth and crop yield, so the development of techniques to enhance plant tolerance to such stress is important. Recently, we revealed that ethanol enhances high-salinity stress tolerance in Arabidopsis thaliana and rice by detoxifying Reactive Oxygen Species (ROS). However, we did not investigate how long salt stress tolerance was maintained following treatment with ethanol. Therefore, we herein analyzed survival rates and expression levels of AtZAT12, which is a transcriptional factor of ROS detoxification enzymes, under different conditions in Arabidopsis. Our results showed that ethanol-mediated high-salinity stress tolerance was lost after a 24 h break in ethanol treatment in ~ 1-week-old plants. Although ethanol enhanced salt stress tolerance, high concentrations of ethanol negatively affected plant growth. Thus, these data support the idea that adjustments of the frequency and amount of ethanol application to plants is useful to enhance salt stress tolerance without growth inhibition in the agricultural field.
+30067446	16	23	ethanol	Chemical	MESH:D000431
+30067446	66	86	Arabidopsis thaliana	Species	3702
+30067446	262	269	ethanol	Chemical	MESH:D000431
+30067446	313	333	Arabidopsis thaliana	Species	3702
+30067446	338	342	rice	Species	4530
+30067446	358	381	Reactive Oxygen Species	Chemical	MESH:D017382
+30067446	383	386	ROS	Chemical	MESH:D017382
+30067446	430	434	salt	Chemical	MESH:D012492
+30067446	492	499	ethanol	Chemical	MESH:D000431
+30067446	571	578	AtZAT12	Gene	836103
+30067446	617	620	ROS	Chemical	MESH:D017382
+30067446	675	686	Arabidopsis	Species	3702
+30067446	712	719	ethanol	Chemical	MESH:D000431
+30067446	791	798	ethanol	Chemical	MESH:D000431
+30067446	842	849	ethanol	Chemical	MESH:D000431
+30067446	905	912	ethanol	Chemical	MESH:D000431
+30067446	1029	1036	ethanol	Chemical	MESH:D000431
+30067446	1080	1084	salt	Chemical	MESH:D012492
+
+32430181|t|CIRCADIAN CLOCK ASSOCIATED 1 gates morning phased auxin response in Arabidopsis thaliana.
+32430181|a|Circadian clock controls plant behaviors to anticipate day-night switch and keeps plant fitness. Here, we reported that plant response to auxin is also strictly governed by clock. The amplitude of auxin-responsive gene expressions gradually declined from morning to the dusk, and then enhanced from dusk to dawn. Plants with defects in both CIRCADIAN CLOCK ASSOCIATED1 (CCA1) and its closest homologue LATE ELONGATED HYPOCOTYL (LHY) (cca1 lhy) showed comparable responses to auxin at different time points in consecutive days, suggesting that CCA1 and LHY were required for gating auxin responses. Moreover, CCA1/LHY physically interacted with the core transcriptional repressors (Aux/IAA proteins), which might further modulate plant sensitivity to auxin. Taken together, we demonstrate that the central morning phased circadian oscillator CCA1 plays a pivotal role in gating auxin response.
+32430181	68	88	Arabidopsis thaliana	Species	3702
+32430181	178	185	fitness	Disease	MESH:D012640
+32430181	441	458	CLOCK ASSOCIATED1	Gene	819296
+32430181	460	464	CCA1	Gene	819296
+32430181	518	521	LHY	Gene	839341
+32430181	524	528	cca1	Gene	819296
+32430181	529	532	lhy	Gene	839341
+32430181	633	637	CCA1	Gene	819296
+32430181	642	645	LHY	Gene	839341
+32430181	698	702	CCA1	Gene	819296
+32430181	703	706	LHY	Gene	839341
+32430181	931	935	CCA1	Gene	819296
+
+23547109|t|Arabidopsis thaliana as a model species for xylem hydraulics: does size matter?
+23547109|a|While Arabidopsis thaliana has been proposed as a model species for wood development, the potential of this tiny herb for studying xylem hydraulics remains unexplored and anticipated by scepticism. Inflorescence stems of A. thaliana were used to measure hydraulic conductivity and cavitation resistance, whereas light and electron microscopy allowed observations of vessels. In wild-type plants, measured and theoretical conductivity showed a significant correlation (R (2) = 0.80, P &lt; 0.01). Moreover, scaling of vessel dimensions and intervessel pit structure of A. thaliana were consistent with structure-function relationships of woody plants. The reliability and resolution of the hydraulic methods applied to measure vulnerability to cavitation were addressed by comparing plants grown under different photoperiods or different mutant lines. Sigmoid vulnerability curves of A. thaliana indicated a pressure corresponding to 50% loss of hydraulic conductance (P 50) between -3 and -2.5MPa for short-day and long-day plants, respectively. Polygalacturonase mutants showed a higher P 50 value (-2.25MPa), suggesting a role for pectins in vulnerability to cavitation. The application of A. thaliana as a model species for xylem hydraulics provides exciting possibilities for (1) exploring the molecular basis of xylem anatomical features and (2) understanding genetic mechanisms behind xylem functional traits such as cavitation resistance. Compared to perennial woody species, however, the lesser amount of xylem in A. thaliana has its limitations.
+23547109	0	20	Arabidopsis thaliana	Species	3702
+23547109	86	106	Arabidopsis thaliana	Species	3702
+23547109	301	312	A. thaliana	Species	3702
+23547109	648	659	A. thaliana	Species	3702
+23547109	963	974	A. thaliana	Species	3702
+23547109	1272	1283	A. thaliana	Species	3702
+23547109	1602	1613	A. thaliana	Species	3702
+
+29886249|t|Modulation of polyamine biosynthesis in Arabidopsis thaliana by a drought mitigating Pseudomonas putida strain.
+29886249|a|Plant growth promoting rhizobacteria (PGPR) are a diverse group of beneficial soil bacteria that help plants in myriad ways. They are implicated in the processes of general growth and development, as well as stress mitigation. Although the physiology of plant-PGPR interaction for abiotic stress tolerance has been well reported, the underlying molecular mechanisms in this phenomenon are not clearly understood. Among the many endogenous molecules that have been reported to impart abiotic stress tolerance in plants are a group of aliphatic amines called polyamines. Here, we report the impact of a free living, drought-mitigating rhizobacterial strain, Pseudomonas putida GAP-P45 on the expression of key genes in the polyamine metabolic pathway and the accumulation of the three major polyamines, putrescine, spermidine and spermine in water-stressed Arabidopsis thaliana. We observed that, inoculation of A. thaliana with P. putida GAP-P45 with or without water-stress, caused significant fluctuations in the expression of most polyamine biosynthetic genes (ADC, AIH, CPA, SPDS, SPMS and SAMDC) and cellular polyamine levels at different days of analysis post treatments. The enhanced accumulation of free cellular putrescine and spermidine observed in this study correlated positively with the water stress tolerant phenotype of A. thaliana in response to P. putida GAP-P45 inoculation reported in our previous study (Ghosh et al., 2017). Our data point towards (a) transcriptional regulation of polyamine biosynthetic genes and (b) complex post transcriptional regulation and/or interconversion/canalization of polyamines, by P. putida GAP-P45 under normal and water-stressed conditions.
+29886249	14	23	polyamine	Chemical	MESH:D011073
+29886249	40	60	Arabidopsis thaliana	Species	3702
+29886249	85	103	Pseudomonas putida	Species	303
+29886249	645	661	aliphatic amines	Chemical	MESH:C020283
+29886249	669	679	polyamines	Chemical	MESH:D011073
+29886249	768	786	Pseudomonas putida	Species	303
+29886249	833	842	polyamine	Chemical	MESH:D011073
+29886249	901	911	polyamines	Chemical	MESH:D011073
+29886249	913	923	putrescine	Chemical	MESH:D011700
+29886249	925	935	spermidine	Chemical	MESH:D013095
+29886249	940	948	spermine	Chemical	MESH:D013096
+29886249	967	987	Arabidopsis thaliana	Species	3702
+29886249	1022	1033	A. thaliana	Species	3702
+29886249	1039	1048	P. putida	Species	303
+29886249	1073	1078	water	Chemical	MESH:D014867
+29886249	1145	1154	polyamine	Chemical	MESH:D011073
+29886249	1225	1234	polyamine	Chemical	MESH:D011073
+29886249	1332	1342	putrescine	Chemical	MESH:D011700
+29886249	1347	1357	spermidine	Chemical	MESH:D013095
+29886249	1412	1417	water	Chemical	MESH:D014867
+29886249	1447	1458	A. thaliana	Species	3702
+29886249	1474	1483	P. putida	Species	303
+29886249	1614	1623	polyamine	Chemical	MESH:D011073
+29886249	1730	1740	polyamines	Chemical	MESH:D011073
+29886249	1745	1754	P. putida	Species	303
+
+30324589|t|Analysis of Expression Gradients of Developmental Regulators in Arabidopsis thaliana Roots.
+30324589|a|The regulatory mechanisms involved in plant development include many signals, some of them acting as graded positional cues regulating gene expression in a concentration-dependent manner. These regulatory molecules, that can be considered similar to animal morphogens, control cell behavior in developing organs. A suitable experimental approach to study expression gradients in plants is quantitative laser scanning confocal microscopy (LSCM) using Arabidopsis thaliana root tips as a model system. In this chapter, we outline a detailed method for image acquisition using LSCM, including detailed microscope settings and image analysis using FIJI as software platform.
+30324589	64	84	Arabidopsis thaliana	Species	3702
+30324589	542	562	Arabidopsis thaliana	Species	3702
+
+29525948|t|Genetic and Phenotypic Analysis of Lateral Root Development in Arabidopsis thaliana.
+29525948|a|Root system formation to a great extent depends on lateral root (LR) formation. In Arabidopsis thaliana, LRs are initiated within a parent root in pericycle that is an external tissue of the stele. LR initiation takes place in a strictly acropetal pattern, whereas posterior lateral root primordium (LRP) formation is asynchronous. In this chapter, we focus on methods of genetic and phenotypic analysis of LR initiation, LRP morphogenesis, and LR emergence in Arabidopsis. We provide details on how to make cleared root preparations and how to identify the LRP stages. We also pay attention to the categorization of the LRP developmental stages and their variations and to the normalization of the number of LRs and LRPs formed, per length of the primary root, and per number of cells produced within a root. Hormonal misbalances and mutations affect LRP morphogenesis significantly, and the evaluation of LRP abnormalities is addressed as well. Finally, we deal with various molecular markers that can be used for genetic and phenotypic analyses of LR development.
+29525948	63	83	Arabidopsis thaliana	Species	3702
+29525948	168	188	Arabidopsis thaliana	Species	3702
+29525948	546	557	Arabidopsis	Species	3702
+29525948	992	1009	LRP abnormalities	Disease	MESH:D000014
+
+26659959|t|Immunolabeling of Nuclei/Chromosomes in Arabidopsis thaliana.
+26659959|a|The cell cycle is a complex sequence of events by which cells grow and divide mitotically or meiotically. Mitosis results in the generation of two identical daughter cells, while meiosis generates gametes as a prerequisite for sexual reproduction. To study the localization and dynamics of proteins involved in the regulation and proceeding of the cell cycle, life cell imaging of proteins fused to fluorescent tags can be performed. However, in some cases this approach cannot be applied, e.g., due to low fluorescence intensity, fast bleaching or degradation of recombinant proteins by the proteasome pathway. Instead, immunolabeling with protein-specific antibodies represents a useful approach for the analysis of intact cells. Alternatively, immunolabeling can also be applied to isolated and/or flow-sorted nuclei of particular cell cycle stages (G1, S, and G2) or of different endopolyploidy levels. This chapter details indirect immunolabeling protocols to analyze the subcellular localization and distribution of cell cycle-specific proteins in Arabidopsis thaliana. 
+26659959	40	60	Arabidopsis thaliana	Species	3702
+26659959	168	175	Mitosis	Disease	
+26659959	1116	1136	Arabidopsis thaliana	Species	3702
+
+25845756|t|Arabidopsis flower development--of protein complexes, targets, and transport.
+25845756|a|Tremendous progress has been achieved over the past 25 years or more of research on the molecular mechanisms of floral organ identity, patterning, and development. While collections of floral homeotic mutants of Antirrhinum majus laid the foundation already at the beginning of the previous century, it was the genetic analysis of these mutants in A. majus and Arabidopsis thaliana that led to the development of the ABC model of floral organ identity more than 20 years ago. This intuitive model kick-started research focused on the genetic mechanisms regulating flower development, using mainly A. thaliana as a model plant. In recent years, interactions among floral homeotic proteins have been elucidated, and their direct and indirect target genes are known to a large extent. Here, we provide an overview over the advances in understanding the molecular mechanism orchestrating A. thaliana flower development. We focus on floral homeotic protein complexes, their target genes, evidence for their transport in floral primordia, and how these new results advance our view on the processes downstream of floral organ identity, such as organ boundary formation or floral organ patterning.
+25845756	0	11	Arabidopsis	Species	3702
+25845756	290	307	Antirrhinum majus	Species	4151
+25845756	426	434	A. majus	Species	4151
+25845756	439	459	Arabidopsis thaliana	Species	3702
+25845756	675	686	A. thaliana	Species	3702
+25845756	962	973	A. thaliana	Species	3702
+
+30783808|t|High-throughput sequencing and differential expression analysis of miRNAs in response to Brassinosteroid treatment in Arabidopsis thaliana.
+30783808|a|Brassinosteroids are a class of phytohormones that play crucial roles in improving stress tolerance in plants. Many biochemical and physiological changes in response to abiotic stress are related to regulation of gene expression and accumulation of associated proteins. MicroRNAs (miRNAs) are class of small non-coding RNAs that regulate gene expression post-transcriptionally. Roles of these regulatory RNAs in brassinosteroid (BR) signalling have however remained elusive. In this study using high-throughput small RNA sequencing method, we present a comprehensive compilation of BR-induced differentially expressed microRNAs in root and shoots of Arabidopsis thaliana seedlings. We identified 229 known miRNAs belonging to 102 families and 27 novel miRNAs that express in response to exogenous BR treatment. Out of 102 families, miRNAs belonging to known 48 families and out of 27 novel miRNAs, 23 were observed to be differentially expressed in response to BR treatment. Among the conserved miRNAs, all members of miR169 were observed to be downregulated in both shoot and root samples. While, auxin-responsive factors were predicted to be direct targets of some novel miRNAs that are upregulated in shoots and suppressed in roots. The BR-responsive tissue-specific miRNome characterized in this study can be used as a starting point by investigators for functional validation studies that will shed light on the underlying molecular mechanism of BR-mediated stress tolerance at the level of post-transcriptional gene regulation.
+30783808	118	138	Arabidopsis thaliana	Species	3702
+30783808	140	156	Brassinosteroids	Chemical	MESH:D060406
+30783808	790	810	Arabidopsis thaliana	Species	3702
+30783808	937	939	BR	Chemical	MESH:D060406
+
+31471029|t|Effects of imazethapyr spraying on plant growth and leaf surface microbial communities in Arabidopsis thaliana.
+31471029|a|Imazethapyr (IM) is an acetolactate synthase (ALS)-inhibiting herbicide that has been widely used in recent years. However, IM spraying can lead to the accumulation of herbicide residues in leaves. Here, we determined the effects of IM spraying on the plant growth and leaf surface microbial communities of Arabidopsis thaliana after 7 and 14 days of exposure. The results suggested that IM spraying inhibited plant growth. Fresh weight decreased to 48% and 26% of the control value after 7 and 14 days, respectively, of 0.035 kg/ha IM exposure. In addition, anthocyanin content increased 9.2-fold and 37.2-fold relative to the control content after 7 and 14 days of treatment, respectively. Furthermore, IM spraying destroyed the cell structures of the leaves, as evidenced by increases in the number of starch granules and the stomatal closure rate. Reductions in photosynthetic efficiency and antioxidant enzyme activity were observed after IM spraying, especially after 14 days of exposure. The diversity and evenness of the leaf microbiota were not affected by IM treatment, but the composition of community structure at the genus level was altered by IM spraying. Imazethapyr application increased the abundance of Pseudomonas, a genus that includes species pathogenic to plants and humans, indicating that IM potentially increased the abundance of pathogenic bacteria on leaves. Our findings increase our understanding of the relationships between herbicide application and the microbial community structures on plant leaves, and they provide a new perspective for studying the ecological safety of herbicide usage.
+31471029	11	22	imazethapyr	Chemical	MESH:C093630
+31471029	90	110	Arabidopsis thaliana	Species	3702
+31471029	112	123	Imazethapyr	Chemical	MESH:C093630
+31471029	135	156	acetolactate synthase	Gene	824015
+31471029	419	439	Arabidopsis thaliana	Species	3702
+31471029	671	682	anthocyanin	Chemical	MESH:D000872
+31471029	917	923	starch	Chemical	MESH:D013213
+31471029	978	1003	photosynthetic efficiency	Disease	MESH:C536214
+31471029	1282	1293	Imazethapyr	Chemical	MESH:C093630
+31471029	1333	1347	Pseudomonas, a	Species	307594
+31471029	1401	1407	humans	Species	9606
+
+12432519|t|Gene expression profiling of Arabidopsis thaliana in compatible plant-aphid interactions.
+12432519|a|Phloem feeding involves unique biological interactions between the herbivore and its host plant. The economic importance of aphids, whiteflies, and other phloem-feeding insects as pests has prompted research to isolate sources of resistance to piercing-sucking insects in crops. However, little information exists about the molecular nature of plant sensitivity to phloem feeding. Recent discoveries involving elicitation by plant pathogens and chewing insects and limited studies on phloem feeders suggest that aphids are capable of inducing responses in plants broadly similar to those associated with pathogen infection and wounding. Our past work showed that compatible aphid feeding on leaves of Arabidopsis thaliana induces localized changes in levels of transcripts of genes that are also associated with infection, mechanical damage, chewing herbivory, or resource allocation shifts. We used microarray and macroarray gene expression analyses of infested plants to better define the response profile of A. thaliana to M. persicae feeding. The results suggest that genes involved in oxidative stress, calcium-dependent signaling, pathogenesis-related responses, and signaling are key components of this profile in plants infested for 72 or 96 h. The use of plant resistance to aphids in crops will benefit from a better understanding of induced responses. The establishment of links between insect elicitation, plant signaling associated with phloem feeding, and proximal resistance mechanisms is critical to further research progress in this area.
+12432519	29	49	Arabidopsis thaliana	Species	3702
+12432519	703	712	infection	Disease	MESH:D007239
+12432519	791	811	Arabidopsis thaliana	Species	3702
+12432519	902	911	infection	Disease	MESH:D007239
+12432519	1101	1112	A. thaliana	Species	3702
+12432519	1116	1127	M. persicae	Species	13164
+12432519	1198	1205	calcium	Chemical	MESH:D002118
+
+32919283|t|Azospirillum brasilense Sp245 lipopolysaccharides induce target of rapamycin signaling and growth in Arabidopsis thaliana.
+32919283|a|The Target of Rapamycin (TOR) protein kinase plays a pivotal role in metabolism and gene expression, which enables cell proliferation, growth and development. Lipopolysaccharides (LPS) are a class of complex glycolipids present in the cell surface of Gram-negative bacteria and mediate plant-bacteria interactions. In this study, we examined whether LPS from Azospirillum brasilense Sp245 affect Arabidopsis thaliana growth via a mechanism involving TOR. A. thaliana plants were treated with LPS and plant growth and development were analyzed in mature plants. Morphological and molecular changes as well as TOR expression and activity were analyzed in root tissues. LPS increased total fresh weight, root length and TOR::GUS expression in the root meristem. Phosphorylation of S6k protein, a downstream target of TOR, increased following LPS treatment, which correlated with increased or decreased expression of CycB1;1::GUS protein upon treatment with LPS or TOR inhibitor AZD-8055, respectively. Long term LPS treatment further increased the rosette size as well as the number of stems and siliques per plant, indicating an overall phytostimulant effect for these signaling molecules. Taken together, the results suggest that A. brasilense LPS play probiotic roles in plants influencing TOR-mediated processes.
+32919283	0	29	Azospirillum brasilense Sp245	Species	1064539
+32919283	30	49	lipopolysaccharides	Chemical	MESH:D008070
+32919283	57	76	target of rapamycin	Gene	841427
+32919283	101	121	Arabidopsis thaliana	Species	3702
+32919283	127	146	Target of Rapamycin	Gene	841427
+32919283	148	151	TOR	Gene	841427
+32919283	282	301	Lipopolysaccharides	Chemical	MESH:D008070
+32919283	303	306	LPS	Chemical	MESH:D008070
+32919283	331	342	glycolipids	Chemical	MESH:D006017
+32919283	473	476	LPS	Chemical	MESH:D008070
+32919283	482	511	Azospirillum brasilense Sp245	Species	1064539
+32919283	519	539	Arabidopsis thaliana	Species	3702
+32919283	573	576	TOR	Gene	841427
+32919283	578	589	A. thaliana	Species	3702
+32919283	615	618	LPS	Chemical	MESH:D008070
+32919283	731	734	TOR	Gene	841427
+32919283	790	793	LPS	Chemical	MESH:D008070
+32919283	840	843	TOR	Gene	841427
+32919283	937	940	TOR	Gene	841427
+32919283	962	965	LPS	Chemical	MESH:D008070
+32919283	1036	1043	CycB1;1	Gene	829904
+32919283	1077	1080	LPS	Chemical	MESH:D008070
+32919283	1084	1087	TOR	Gene	841427
+32919283	1098	1106	AZD-8055	Chemical	MESH:C546624
+32919283	1132	1135	LPS	Chemical	MESH:D008070
+32919283	1355	1369	brasilense LPS	Disease	MESH:C536528
+32919283	1413	1416	TOR	Gene	841427
+
+32836022|t|The involvement of gamma-aminobutyric acid shunt in the endoplasmic reticulum stress response of Arabidopsis thaliana.
+32836022|a|The endoplasmic reticulum (ER) is the main site of secretory protein production and folding and its homeostasis under environmental stress is vital for the maintenance of the protein secretory pathway. The loss of homeostasis and accumulation of unfolded proteins in the ER is referred to as ER stress. Although, gamma-aminobutyric acid (GABA) is an important regulator of stress response in plants, its roles during ER stress remains unclear. This study investigated the involvement of GABA in the ER stress response of plants. For this, changes in GABA metabolism under ER stress was analysed in Arabidopsis thaliana, then to study the response of the ER-folding machinery, plants were treated with exogenous GABA under ER stress. The antibiotic tunicamycin, which inhibits N-glycosylation was used to specifically induce ER stress. This stress up-regulated the expression of five glutamate decarboxylase (GAD) genes except GAD2 and GABA content of A. thaliana plants increased with an increasing concentration of tunicamycin (0.1 mug ml-1 and 0.25 mug ml-1). Moreover, expressions of genes involved in the conversion of GABA to succinate was also induced, while genes involved in transport across plasma and mitochondrial membrane showed no response to ER stress. The exogenous treatment of plants with 1-and 5-mM GABA increased plant performance under ER stress but 0.1 mM proved ineffective. Plants treated with GABA under ER stress had decreased expression of ER stress marker genes such as BIP1, BIP3 or CNX, but the expression of genes related to ER stress perception or ER-associated protein degradation showed no changes with respect to GABA treatments.
+32836022	19	42	gamma-aminobutyric acid	Chemical	MESH:D005680
+32836022	97	117	Arabidopsis thaliana	Species	3702
+32836022	432	455	gamma-aminobutyric acid	Chemical	MESH:D005680
+32836022	457	461	GABA	Chemical	MESH:D005680
+32836022	606	610	GABA	Chemical	MESH:D005680
+32836022	669	673	GABA	Chemical	MESH:D005680
+32836022	717	737	Arabidopsis thaliana	Species	3702
+32836022	830	834	GABA	Chemical	MESH:D005680
+32836022	867	878	tunicamycin	Chemical	MESH:D014415
+32836022	895	896	N	Chemical	MESH:D009584
+32836022	1002	1025	glutamate decarboxylase	Gene	831599
+32836022	1027	1030	GAD	Gene	831599
+32836022	1045	1049	GAD2	Gene	842908
+32836022	1054	1058	GABA	Chemical	MESH:D005680
+32836022	1070	1081	A. thaliana	Species	3702
+32836022	1135	1146	tunicamycin	Chemical	MESH:D014415
+32836022	1242	1246	GABA	Chemical	MESH:D005680
+32836022	1250	1259	succinate	Chemical	MESH:D019802
+32836022	1436	1440	GABA	Chemical	MESH:D005680
+32836022	1536	1540	GABA	Chemical	MESH:D005680
+32836022	1616	1620	BIP1	Gene	832950
+32836022	1622	1626	BIP3	Gene	837429
+32836022	1630	1633	CNX	Gene	832224
+32836022	1766	1770	GABA	Chemical	MESH:D005680
+
+29237449|t|High altitude population of Arabidopsis thaliana is more plastic and adaptive under common garden than controlled condition.
+29237449|a|BACKGROUND: Population differentiation and their adaptation to a particular environment depend on their ability to respond to a new environment. This, in turn is governed to an extent, by the degree of phenotypic plasticity exhibited by the populations. The populations of same species inhabiting different climatic conditions may differ in their phenotypic plasticity. Himalayan populations of Arabidopsis thaliana originating from a steep altitude are exposed to different climatic conditions ranging from sub-tropical to temperate. Thus they might have experienced different selection pressures during evolution and may respond differently under common environmental condition. RESULTS: Phenotypic plasticity and differentiation of natural populations of A. thaliana grown under common garden and controlled conditions were determined. A total of seventeen morphological traits, their plasticity, association between traits and environment were performed using 45 accessions from three populations. Plants from different altitudes differed in phenotypes, their selection and fitness under two conditions. Under both the conditions lower altitude population was characterized by higher leaf count and larger silique than higher and middle altitude population. Flowering time of high altitude population increased while that of low and medium altitude decreased under controlled condition compared to open field. An increase in seed weight and germination was observed for all the population under open field than controlled. Rosette area was under divergent selection in both the condition. The heritability of lower altitude population was the highest under both the conditions, where as it was the least for higher altitude population further indicating that the high altitude populations are more responsive towards phenotypic changes under new environmental conditions. Ninety-nine percent of variability in traits and their plasticity co-varied with the altitude of their origin. The population of high altitude was more plastic and differentiated as compared to the lower altitude one. CONCLUSIONS: Arabidopsis thaliana population native to different altitudes of the west Himalaya responds differently when grown under common environments. The success of high altitude population is more in common garden than the controlled conditions. The significant variability in phenotype and its association with altitude of origin predicts for non-random genetic differentiation among the populations.
+29237449	28	48	Arabidopsis thaliana	Species	3702
+29237449	520	540	Arabidopsis thaliana	Species	3702
+29237449	883	894	A. thaliana	Species	3702
+29237449	2232	2252	Arabidopsis thaliana	Species	3702
+
+29242530|t|Correlated production and consumption of chloromethane in the Arabidopsis thaliana phyllosphere.
+29242530|a|Chloromethane (CH3Cl) is a toxic gas mainly produced naturally, in particular by plants, and its emissions contribute to ozone destruction in the stratosphere. Conversely, CH3Cl can be degraded and used as the sole carbon and energy source by specialised methylotrophic bacteria, isolated from a variety of environments including the phyllosphere, i.e. the aerial parts of vegetation. The potential role of phyllospheric CH3Cl-degrading bacteria as a filter for plant emissions of CH3Cl was investigated using variants of Arabidopsis thaliana with low, wild-type and high expression of HOL1 methyltransferase previously shown to be responsible for most of CH3Cl emissions by A. thaliana. Presence and expression of the bacterial chloromethane dehalogenase cmuA gene in the A. thaliana phyllosphere correlated with HOL1 genotype, as shown by qPCR and RT-qPCR. Production of CH3Cl by A. thaliana paralleled HOL1 expression, as assessed by a fluorescence-based bioreporter. The relation between plant production of CH3Cl and relative abundance of CH3Cl-degrading bacteria in the phyllosphere suggests that CH3Cl-degrading bacteria co-determine the extent of plant emissions of CH3Cl to the atmosphere.
+29242530	41	54	chloromethane	Chemical	MESH:D008737
+29242530	62	82	Arabidopsis thaliana	Species	3702
+29242530	97	110	Chloromethane	Chemical	MESH:D008737
+29242530	112	117	CH3Cl	Chemical	MESH:D008737
+29242530	269	274	CH3Cl	Chemical	MESH:D008737
+29242530	312	318	carbon	Chemical	MESH:D002244
+29242530	431	443	phyllosphere	Chemical	-
+29242530	518	523	CH3Cl	Chemical	MESH:D008737
+29242530	578	583	CH3Cl	Chemical	MESH:D008737
+29242530	619	639	Arabidopsis thaliana	Species	3702
+29242530	683	687	HOL1	Gene	818995
+29242530	753	758	CH3Cl	Chemical	MESH:D008737
+29242530	772	783	A. thaliana	Species	3702
+29242530	826	839	chloromethane	Chemical	MESH:D008737
+29242530	870	881	A. thaliana	Species	3702
+29242530	911	915	HOL1	Gene	818995
+29242530	970	975	CH3Cl	Chemical	MESH:D008737
+29242530	979	990	A. thaliana	Species	3702
+29242530	1002	1006	HOL1	Gene	818995
+29242530	1109	1114	CH3Cl	Chemical	MESH:D008737
+29242530	1141	1146	CH3Cl	Chemical	MESH:D008737
+29242530	1173	1185	phyllosphere	Chemical	-
+29242530	1200	1205	CH3Cl	Chemical	MESH:D008737
+29242530	1271	1276	CH3Cl	Chemical	MESH:D008737
+
+27467746|t|Re-Evaluation of Reportedly Metal Tolerant Arabidopsis thaliana Accessions.
+27467746|a|Santa Clara, Limeport, and Berkeley are Arabidopsis thaliana accessions previously identified as diversely metal resistant. Yet these same accessions were determined to be genetically indistinguishable from the metal sensitive Col-0. We robustly tested tolerance for Zn, Ni and Cu, and genetic relatedness by growing these accessions under a range of Ni, Zn and Cu concentrations for three durations in multiple replicates. Neither metal resistance nor variance in growth were detected between them and Col-0. We re-sequenced the genomes of these accessions and all stocks available for each accession. In all cases they were nearly indistinguishable from the standard laboratory accession Col-0. As Santa Clara was allegedly collected from the Jasper Ridge serpentine outcrop in California, USA we investigated the possibility of extant A. thaliana populations adapted to serpentine soils. Botanically vouchered Arabidopsis accessions in the Jepson database were overlaid with soil maps of California. This provided no evidence of A. thaliana collections from serpentine sites in California. Thus, our work demonstrates that the Santa Clara, Berkeley and Limeport accessions are not metal tolerant, not genetically distinct from Col-0, and that there are no known serpentine adapted populations or accessions of A. thaliana. 
+27467746	43	63	Arabidopsis thaliana	Species	3702
+27467746	116	136	Arabidopsis thaliana	Species	3702
+27467746	183	188	metal	Chemical	MESH:D008670
+27467746	287	292	metal	Chemical	MESH:D008670
+27467746	343	345	Zn	Chemical	MESH:D015032
+27467746	354	356	Cu	Chemical	MESH:D003300
+27467746	431	433	Zn	Chemical	MESH:D015032
+27467746	438	440	Cu	Chemical	MESH:D003300
+27467746	642	648	stocks	Species	3724
+27467746	914	925	A. thaliana	Species	3702
+27467746	989	1000	Arabidopsis	Species	3702
+27467746	1108	1119	A. thaliana	Species	3702
+27467746	1389	1400	A. thaliana	Species	3702
+
+22281764|t|Arabidopsis thaliana as a model for the genetics of local adaptation.
+22281764|a|A new study reports SNP genotypes of over 1,300 Arabidopsis thaliana accessions from throughout Eurasia, providing a resource for genome-wide association studies and studies of local adaptation. The extensive data are also used to identify targets of natural selection and to describe genome-wide patterns of recombination.
+22281764	0	20	Arabidopsis thaliana	Species	3702
+22281764	118	138	Arabidopsis thaliana	Species	3702
+
+31330327|t|More Transporters, More Substrates: The Arabidopsis Major Facilitator Superfamily Revisited.
+31330327|a|The Major Facilitator Superfamily (MFS) is ubiquitous in living organisms and represents the largest group of secondary active membrane transporters. In plants, significant research efforts have focused on the role of specific families within the MFS, particularly those transporting macronutrients (C, N, and P) that constitute the vast majority of the members of this superfamily. Other MFS families remain less explored, although a plethora of additional substrates and physiological functions have been uncovered. Nevertheless, the lack of a systematic approach to analyzing the MFS as a whole has obscured the high diversity and versatility of these transporters. Here, we present a phylogenetic analysis of all annotated MFS domain-containing proteins encoded in the Arabidopsis thaliana genome and propose that this superfamily of transporters consists of 218 members, clustered in 22 families. In reviewing the available information regarding the diversity in biological functions and substrates of Arabidopsis MFS members, we provide arguments for intensified research on these membrane transporters to unveil the breadth of their physiological relevance, disclose the molecular mechanisms underlying their mode of action, and explore their biotechnological potential.
+31330327	40	51	Arabidopsis	Species	3702
+31330327	866	886	Arabidopsis thaliana	Species	3702
+31330327	1100	1111	Arabidopsis	Species	3702
+
+28623589|t|AraNet: A Network Biology Server for Arabidopsis thaliana and Other Non-Model Plant Species.
+28623589|a|Functional gene networks link genes based on their functional relatedness, which is inferred from various complementary biological datasets. Gene networks comprising vast amounts of data can be used to predict which genes are associated with complex traits. Decades of studies in plant biology using the model organism Arabidopsis thaliana have generated large amounts of information, enabling the development of a system-level molecular network. AraNet (currently version 2) is a genome-scale functional gene network for Arabidopsis thaliana, constructed by integrating 19 types of genomics data and can be explored through a web-server (http://www.inetbio.org/aranet) to identify candidate genes for traits of interest. AraNet provides two alternative search paths for users to identify candidate genes and functions. The web server also exploits ortholog relationships between plant species and projects the genes of 28 other plant species (as of April, 2016) into the network of Arabidopsis genes. This allows researchers to use AraNet to predict genes/functions of not only Arabidopsis but also other non-model plants by expanding the functional knowledge of Arabidopsis. Here, we present a detailed description of how to search the AraNet network and interpret the search results to study plant gene functions and their associations with complex phenotypes.
+28623589	37	57	Arabidopsis thaliana	Species	3702
+28623589	412	432	Arabidopsis thaliana	Species	3702
+28623589	615	635	Arabidopsis thaliana	Species	3702
+28623589	1076	1087	Arabidopsis	Species	3702
+28623589	1172	1183	Arabidopsis	Species	3702
+28623589	1257	1268	Arabidopsis	Species	3702
+
+20064057|t|Arabidopsis thaliana cells: a model to evaluate the virulence of Pectobacterium carotovorum.
+20064057|a|Pectobacterium carotovorum are economically important plant pathogens that cause plant soft rot. These enterobacteria display high diversity world-wide. Their pathogenesis depends on production and secretion of virulence factors such as plant cell wall-degrading enzymes, type III effectors, a necrosis-inducing protein, and a secreted virulence factor from Xanthomonas spp., which are tightly regulated by quorum sensing. Pectobacterium carotovorum also present pathogen-associated molecular patterns that could participate in their pathogenicity. In this study, by using suspension cells of Arabidopsis thaliana, we correlate plant cell death and pectate lyase activities during coinfection with different P. carotovorum strains. When comparing soft rot symptoms induced on potato slices with pectate lyase activities and plant cell death observed during coculture with Arabidopsis thaliana cells, the order of strain virulence was found to be the same. Therefore, Arabidopsis thaliana cells could be an alternative tool to evaluate rapidly and efficiently the virulence of different P. carotovorum strains.
+20064057	0	20	Arabidopsis thaliana	Species	3702
+20064057	65	91	Pectobacterium carotovorum	Species	554
+20064057	93	119	Pectobacterium carotovorum	Species	554
+20064057	387	395	necrosis	Disease	MESH:D009336
+20064057	516	542	Pectobacterium carotovorum	Species	554
+20064057	686	706	Arabidopsis thaliana	Species	3702
+20064057	750	755	lyase	Gene	822060
+20064057	801	815	P. carotovorum	Species	554
+20064057	869	875	potato	Species	4113
+20064057	896	901	lyase	Gene	822060
+20064057	965	985	Arabidopsis thaliana	Species	3702
+20064057	1060	1080	Arabidopsis thaliana	Species	3702
+20064057	1179	1193	P. carotovorum	Species	554
+
+22438063|t|The Arabidopsis thaliana SET-domain-containing protein ASHH1/SDG26 interacts with itself and with distinct histone lysine methyltransferases.
+22438063|a|Polycomb group (PcG) and trithorax group (trxG) proteins are key regulators of homeotic genes and have central roles in cell proliferation, growth and development. In animals, PcG and trxG proteins form higher order protein complexes that contain SET domain proteins with histone methyltransferase activity, and are responsible for the different types of lysine methylation at the N-terminal tails of the core histone proteins. However, whether H3K4 methyltransferase complexes exist in Arabidopsis thaliana remains unknown. Here, we make use of the yeast two-hybrid system and the bimolecular fluorescence complementation assay to provide evidence for the self-association of the Arabidopsis thaliana SET-domain-containing protein SET DOMAIN GROUP 26 (SDG26), also known as ABSENT, SMALL, OR HOMEOTIC DISCS 1 HOMOLOG 1 (ASHH1). In addition, we show that the ASHH1 protein associates with SET-domain-containing sequences from two distinct histone lysine methyltransferases, the ARABIDOPSIS HOMOLOG OF TRITHORAX-1 (ATX1) and ASHH2 proteins. Furthermore, after screening a cDNA library we found that ASHH1 interacts with two proteins from the heat shock protein 40 kDa (Hsp40/DnaJ) superfamily, thus connecting the epigenetic network with a system sensing external cues. Our findings suggest that trxG complexes in Arabidopsis thaliana could involve different sets of histone lysine methyltransferases, and that these complexes may be engaged in multiple developmental processes in Arabidopsis.
+22438063	4	24	Arabidopsis thaliana	Species	3702
+22438063	55	60	ASHH1	Gene	844005
+22438063	61	66	SDG26	Gene	844005
+22438063	497	503	lysine	Chemical	MESH:D008239
+22438063	629	649	Arabidopsis thaliana	Species	3702
+22438063	823	843	Arabidopsis thaliana	Species	3702
+22438063	895	900	SDG26	Gene	844005
+22438063	963	968	ASHH1	Gene	844005
+22438063	1001	1006	ASHH1	Gene	844005
+22438063	1120	1131	ARABIDOPSIS	Species	3702
+22438063	1156	1160	ATX1	Gene	842940
+22438063	1166	1171	ASHH2	Gene	844066
+22438063	1240	1245	ASHH1	Gene	844005
+22438063	1455	1475	Arabidopsis thaliana	Species	3702
+22438063	1622	1633	Arabidopsis	Species	3702
+
+26567581|t|Evolutionary Divergence of Arabidopsis thaliana Classical Peroxidases.
+26567581|a|Polymorphisms of 62 peroxidase genes derived from Arabidopsis thaliana were investigated to evaluate evolutionary dynamics and divergence of peroxidase proteins. By comparing divergence of duplicated genes AtPrx53-AtPrx54 and AtPrx36-AtPrx72 and their products, nucleotide and amino acid substitutions were identified that were apparently targets of positive selection. These substitutions were detected among paralogs of 461 ecotypes from Arabidopsis thaliana. Some of these substitutions are conservative and matched paralogous peroxidases in other Brassicaceae species. These results suggest that after duplication, peroxidase genes evolved under the pressure of positive selection, and amino acid substitutions identified during our study provided divergence of properties and physiological functions in peroxidases. Our predictions regarding functional significance for amino acid residues identified in variable sites of peroxidases may allow further experimental assessment of evolution of peroxidases after gene duplication. 
+26567581	27	47	Arabidopsis thaliana	Species	3702
+26567581	91	101	peroxidase	Gene	28721236
+26567581	121	141	Arabidopsis thaliana	Species	3702
+26567581	212	222	peroxidase	Gene	28721236
+26567581	277	284	AtPrx53	Gene	830561
+26567581	305	312	AtPrx72	Gene	836771
+26567581	511	531	Arabidopsis thaliana	Species	3702
+26567581	690	700	peroxidase	Gene	28721236
+
+19799179|t|Visual markers for detecting gene conversion directly in the gametes of Arabidopsis thaliana.
+19799179|a|Measuring meiotic gene conversion is important both because of its role in the fundamental mechanisms of meiotic recombination and because of its influence on linkage relationships and allelic diversity in the genome. Historically, gene conversion has been most thoroughly examined in fungal organisms through the use of tetrad analysis. Here we describe a method for using tetrad analysis in the model plant Arabidopsis thaliana to detect and quantify gene conversion events - a resource unavailable in most other higher eukaryotic model systems.
+19799179	72	92	Arabidopsis thaliana	Species	3702
+19799179	503	523	Arabidopsis thaliana	Species	3702
+
+21129970|t|Arabidopsis thaliana leaf form evolved via loss of KNOX expression in leaves in association with a selective sweep.
+21129970|a|Morphological diversity is often caused by altered gene expression of key developmental regulators. However, the precise developmental trajectories through which morphologies evolved remain poorly understood. It is also unclear to what degree genetic changes contributing to morphological divergence were fixed by natural selection. Here we investigate these problems in the context of evolutionary developmental transitions that produced the simple unlobed leaf of the model species Arabidopsis thaliana. We demonstrate that A. thaliana leaf shape likely derived from a more complex lobed ancestral state that persists in extant Arabidopsis species. We also show that evolution of the unlobed leaf form in A. thaliana involved loss of expression of the knotted1-like homeobox gene SHOOTMERISTEMLESS (STM) in leaves and that cis-regulatory divergence contributed to this process. Further, we provide evidence for a selective sweep at the A. thaliana STM locus, indicating that loss of STM expression in A. thaliana leaves may have been fixed by positive selection. In summary, our data provide key information as to when and how the characteristic leaf form of A. thaliana evolved.
+21129970	0	20	Arabidopsis thaliana	Species	3702
+21129970	600	620	Arabidopsis thaliana	Species	3702
+21129970	642	653	A. thaliana	Species	3702
+21129970	746	757	Arabidopsis	Species	3702
+21129970	823	834	A. thaliana	Species	3702
+21129970	898	915	SHOOTMERISTEMLESS	Gene	842534
+21129970	917	920	STM	Gene	842534
+21129970	1054	1065	A. thaliana	Species	3702
+21129970	1066	1069	STM	Gene	842534
+21129970	1101	1104	STM	Gene	842534
+21129970	1119	1130	A. thaliana	Species	3702
+21129970	1277	1288	A. thaliana	Species	3702
+
+29098304|t|Physiological and Molecular Response of Arabidopsis thaliana to CuO Nanoparticle (nCuO) Exposure.
+29098304|a|The widespread application of copper oxide nanoparticles (nCuO) results in ecological risk when nanoparticles enter the environment. This study clarifies the mechanism of nCuO toxicity in Arabidopsis thaliana seedlings via comparison with copper (Cu) ion bioeffects. Under the same culture conditions, Cu2+ ion exposure exerted a stronger inhibitory effect on plant fresh weight and growth and caused stronger oxidative disruption (measured by malondialdehyde, MDA) than nCuO exposure. The Cu2+ ions also showed a stronger induction effect than did nCuO on the activity of antioxidant enzymes and the transcription of antioxidant-related genes. Dissolved Cu2+ ions contributed a minority of the toxicity of nCuO, implying that nCuO itself showed relative strong phytotoxicity. The work presented here will help increase our understanding of the toxicity of metal nanoparticles in plants.
+29098304	40	60	Arabidopsis thaliana	Species	3702
+29098304	128	140	copper oxide	Chemical	-
+29098304	274	282	toxicity	Disease	MESH:D064420
+29098304	286	306	Arabidopsis thaliana	Species	3702
+29098304	337	343	copper	Chemical	MESH:D003300
+29098304	345	347	Cu	Chemical	MESH:D003300
+29098304	400	404	Cu2+	Chemical	-
+29098304	542	557	malondialdehyde	Chemical	MESH:D008315
+29098304	588	592	Cu2+	Chemical	-
+29098304	753	757	Cu2+	Chemical	-
+29098304	793	801	toxicity	Disease	MESH:D064420
+29098304	943	951	toxicity	Disease	MESH:D064420
+29098304	955	960	metal	Chemical	MESH:D008670
+
+24817709|t|Structure of the Arabidopsis thaliana TOP2 oligopeptidase.
+24817709|a|Thimet oligopeptidase (TOP) is a zinc-dependent metallopeptidase. Recent studies suggest that Arabidopsis thaliana TOP1 and TOP2 are targets for salicylic acid (SA) binding and participate in SA-mediated plant innate immunity. The crystal structure of A. thaliana TOP2 has been determined at 3.0 A resolution. Comparisons to the structure of human TOP revealed good overall structural conservation, especially in the active-site region, despite their weak sequence conservation. The protein sample was incubated with the photo-activated SA analog 4-azido-SA and exposed to UV irradiation before crystallization. However, there was no conclusive evidence for the binding of SA based on the X-ray diffraction data. Further studies are needed to elucidate the molecular mechanism of how SA regulates the activity of A. thaliana TOP1 and TOP2.
+24817709	17	37	Arabidopsis thaliana	Species	3702
+24817709	153	173	Arabidopsis thaliana	Species	3702
+24817709	204	218	salicylic acid	Chemical	MESH:D020156
+24817709	220	222	SA	Chemical	MESH:D020156
+24817709	251	253	SA	Chemical	MESH:D020156
+24817709	311	322	A. thaliana	Species	3702
+24817709	401	406	human	Species	9606
+24817709	596	598	SA	Chemical	MESH:D020156
+24817709	606	616	4-azido-SA	Chemical	MESH:C063873
+24817709	732	734	SA	Chemical	MESH:D020156
+24817709	843	845	SA	Chemical	MESH:D020156
+24817709	872	883	A. thaliana	Species	3702
+
+30030887|t|Volatiles of rhizobacteria Serratia and Stenotrophomonas alter growth and metabolite composition of Arabidopsis thaliana.
+30030887|a|The emission of volatiles is a common, but mostly neglected, ability of bacteria that is important for inter- and intraspecific interactions. Currently, limited information is available on how the bacterial volatile (mVOC) signal is integrated into a plant's life at the physiological, transcriptional and metabolic level. Previous results provided evidence for volatile-dependent regulation of WRKY18, a pathogen-responsive transcription factor of Arabidopsis thaliana in co-culture with two rhizobacteria, Serratia plymuthica HRO-C48 and Stenotrophomonas maltophilia R3089. Dual cultures of these bacteria and A. thaliana; application of the common mVOC 2-phenyl-ethanol; extraction of metabolites of A. thaliana after exposure to bacterial volatiles; and analysis of the metabolomes (GC-TOF/MS) were carried out. The prominent microbial aromatic compound 2-phenyl-ethanol, emitted by both bacteria, negatively affects growth of A. thaliana wild type, whereas WRKY18 T-DNA insertion mutants were significantly more tolerant than wild-type seedlings. This paper also demonstrates for the first time the impact of the rhizobacterial volatiles on the metabolome of A. thaliana. Upon mVOC exposure the plants rearrange their metabolism by accumulation of e.g. amino acids and TCA intermediates that potentially allow plants to cope with and survive this stress. Our findings illustrate the high degree of complexity of metabolic rearrangements underlying the interactions of bacterial volatile elicitors and resulting plant responses. Furthermore, the impact of the volatile 2-phenyl-ethanol as a signal in the WRKY18-dependent pathway highlights this compound as an important molecular player.
+30030887	13	35	rhizobacteria Serratia	Disease	MESH:D016868
+30030887	40	56	Stenotrophomonas	Species	40324
+30030887	100	120	Arabidopsis thaliana	Species	3702
+30030887	517	523	WRKY18	Gene	829308
+30030887	571	591	Arabidopsis thaliana	Species	3702
+30030887	630	649	Serratia plymuthica	Species	82996
+30030887	662	696	Stenotrophomonas maltophilia R3089	Disease	MESH:C531821
+30030887	734	745	A. thaliana	Species	3702
+30030887	778	794	2-phenyl-ethanol	Chemical	MESH:D010626
+30030887	825	836	A. thaliana	Species	3702
+30030887	980	996	2-phenyl-ethanol	Chemical	MESH:D010626
+30030887	1053	1064	A. thaliana	Species	3702
+30030887	1084	1090	WRKY18	Gene	829308
+30030887	1286	1297	A. thaliana	Species	3702
+30030887	1396	1399	TCA	Chemical	MESH:D014238
+30030887	1695	1711	2-phenyl-ethanol	Chemical	MESH:D010626
+30030887	1731	1737	WRKY18	Gene	829308
+
+28004784|t|The isolation and characterization of resident yeasts from the phylloplane of Arabidopsis thaliana.
+28004784|a|The genetic model plant Arabidopsis thaliana (arabidopsis) has been instrumental to recent advances in our understanding of the molecular function of the plant immune system. However, this work has not yet included plant associated and phytopathogenic yeasts largely due to a lack of yeast species known to interact with arabidopsis. The plant phylloplane is a significant habitat for neutral-residents, plant-growth and health-promoting species, and latent-pathogenic species. However, yeast phylloplane residents of arabidopsis remain underexplored. To address this, resident yeasts from the phyllosphere of wild arabidopsis collected in field conditions have been isolated and characterized. A total of 95 yeast strains representing 23 species in 9 genera were discovered, including potentially psychrophilic and pathogenic strains. Physiological characterization revealed thermotolerance profiles, sensitivity to the arabidopsis phytoalexin camalexin, the production of indolic compounds, and the ability to activate auxin responses in planta. These results indicate a rich diversity of yeasts present in the arabidopsis phylloplane and have created culture resources and information useful in the development of model systems for arabidopsis-yeast interactions.
+28004784	47	53	yeasts	Species	4932
+28004784	78	98	Arabidopsis thaliana	Species	3702
+28004784	124	144	Arabidopsis thaliana	Species	3702
+28004784	146	157	arabidopsis	Species	3702
+28004784	352	358	yeasts	Species	4932
+28004784	384	389	yeast	Species	4932
+28004784	421	432	arabidopsis	Species	3702
+28004784	587	592	yeast	Species	4932
+28004784	618	629	arabidopsis	Species	3702
+28004784	678	684	yeasts	Species	4932
+28004784	715	726	arabidopsis	Species	3702
+28004784	809	814	yeast	Species	4932
+28004784	898	911	psychrophilic	Disease	
+28004784	1021	1032	arabidopsis	Species	3702
+28004784	1074	1091	indolic compounds	Chemical	-
+28004784	1191	1197	yeasts	Species	4932
+28004784	1213	1224	arabidopsis	Species	3702
+28004784	1335	1346	arabidopsis	Species	3702
+28004784	1347	1352	yeast	Species	4932
+
+31856719|t|Direct comparison of Arabidopsis gene expression reveals different responses to melatonin versus auxin.
+31856719|a|BACKGROUND: Melatonin (N-acetyl-5-methoxytryptamine) in plants, regulates shoot and root growth and alleviates environmental stresses. Melatonin and the phyto-hormone auxin are tryptophan-derived compounds. However, it largely remains controversial as to whether melatonin and auxin act through similar or overlapping signalling and regulatory pathways. RESULTS: Here, we have used a promoter-activation study to demonstrate that, unlike auxin (1-naphthalene acetic acid, NAA), melatonin neither induces Direct repeat 5 DR5 expression in Arabidopsis thaliana roots under normal growth conditions nor suppresses the induction of Alternative oxidase 1a AOX1a in leaves upon Antimycin A treatment, both of which are the hallmarks of auxin action. Additionally, comparative global transcriptome analysis conducted on Arabidopsis treated with melatonin or NAA revealed differences in the number and types of differentially expressed genes. Auxin (4.5 muM) altered the expression of a diverse and large number of genes whereas melatonin at 5 muM had no significant effect but melatonin at 100 muM had a modest effect on transcriptome compared to solvent-treated control. Interestingly, the prominent category of genes differentially expressed upon exposure to melatonin trended towards biotic stress defence pathways while downregulation of key genes related to photosynthesis was observed. CONCLUSION: Together these findings indicate that though they are both indolic compounds, melatonin and auxin act through different pathways to alter gene expression in Arabidopsis thaliana. Furthermore, it appears that effects of melatonin enable Arabidopsis thaliana to prioritize biotic stress defence signalling rather than growth. These findings clear the current confusion in the literature regarding the relationship of melatonin and auxin and also have greater implications of utilizing melatonin for improved plant protection.
+31856719	21	32	Arabidopsis	Species	*3702
+31856719	80	89	melatonin	Chemical	MESH:D008550
+31856719	116	125	Melatonin	Chemical	MESH:D008550
+31856719	127	155	N-acetyl-5-methoxytryptamine	Chemical	MESH:D008735
+31856719	239	248	Melatonin	Chemical	MESH:D008550
+31856719	281	291	tryptophan	Chemical	
+31856719	367	376	melatonin	Chemical	MESH:D008550
+31856719	549	574	1-naphthalene acetic acid	Chemical	MESH:C031721
+31856719	576	579	NAA	Chemical	MESH:D009536
+31856719	582	591	melatonin	Chemical	MESH:D008550
+31856719	642	662	Arabidopsis thaliana	Species	3702
+31856719	755	760	AOX1a	Gene	821806
+31856719	776	787	Antimycin A	Chemical	MESH:C032456
+31856719	917	928	Arabidopsis	Species	*3702
+31856719	942	951	melatonin	Chemical	MESH:D008550
+31856719	955	958	NAA	Chemical	MESH:D009536
+31856719	1125	1134	melatonin	Chemical	MESH:D008550
+31856719	1174	1183	melatonin	Chemical	MESH:D008550
+31856719	1358	1367	melatonin	Chemical	MESH:D008550
+31856719	1579	1588	melatonin	Chemical	MESH:D008550
+31856719	1658	1678	Arabidopsis thaliana	Species	3702
+31856719	1720	1729	melatonin	Chemical	MESH:D008550
+31856719	1737	1757	Arabidopsis thaliana	Species	3702
+31856719	1916	1925	melatonin	Chemical	MESH:D008550
+31856719	1984	1993	melatonin	Chemical	MESH:D008550
+
+29722815|t|A missense allele of KARRIKIN-INSENSITIVE2 impairs ligand-binding and downstream signaling in Arabidopsis thaliana.
+29722815|a|A smoke-derived compound, karrikin (KAR), and an endogenous but as yet unidentified KARRIKIN INSENSITIVE2 (KAI2) ligand (KL) have been identified as chemical cues in higher plants that impact on multiple aspects of growth and development. Genetic screening of light-signaling mutants in Arabidopsis thaliana has identified a mutant designated as ply2 (pleiotropic long hypocotyl2) that has pleiotropic light-response defects. In this study, we used positional cloning to identify the molecular lesion of ply2 as a missense mutation of KAI2/HYPOSENSITIVE TO LIGHT, which causes a single amino acid substitution, Ala219Val. Physiological analysis and genetic epistasis analysis with the KL-signaling components MORE AXILLARY GROWTH2 (MAX2) and SUPPRESSOR OF MAX2 1 suggested that the pleiotropic phenotypes of the ply2 mutant can be ascribed to a defect in KL-signaling. Molecular and biochemical analyses revealed that the mutant KAI2ply2 protein is impaired in its ligand-binding activity. In support of this conclusion, X-ray crystallography studies suggested that the KAI2ply2 mutation not only results in a narrowed entrance gate for the ligand but also alters the structural flexibility of the helical lid domains. We discuss the structural implications of the Ala219 residue with regard to ligand-specific binding and signaling of KAI2, together with potential functions of KL-signaling in the context of the light-regulatory network in Arabidopsis thaliana.
+29722815	94	114	Arabidopsis thaliana	Species	3702
+29722815	223	227	KAI2	Gene	829902
+29722815	282	295	higher plants	Species	3193
+29722815	403	423	Arabidopsis thaliana	Species	3702
+29722815	651	655	KAI2	Gene	829902
+29722815	848	852	MAX2	Gene	818862
+29722815	858	876	SUPPRESSOR OF MAX2	Gene	818862
+29722815	1381	1387	Ala219	Chemical	-
+29722815	1452	1456	KAI2	Gene	829902
+29722815	1558	1578	Arabidopsis thaliana	Species	3702
+
+26663391|t|Ethylene response factors in Arabidopsis immunity.
+26663391|a|Pathogen attack leads to transcriptional changes and metabolic modifications allowing the establishment of appropriate plant defences. Transcription factors (TFs) are key players in plant innate immunity. Notably, ethylene response factor (ERF) TFs are integrators of hormonal pathways and are directly responsible for the transcriptional regulation of several jasmonate (JA)/ethylene (ET)-responsive defence genes. Transcriptional activation or repression by ERFs is achieved through the binding to JA/ET-responsive gene promoters. In this review, we describe the regulation and mode of action at a molecular level of ERFs involved in Arabidopsis thaliana immunity. In particular, we focus on defence activators such as ERF1, ORA59, ERF6, and the recently described ERF96.
+26663391	0	8	Ethylene	Chemical	MESH:C036216
+26663391	29	40	Arabidopsis	Species	3702
+26663391	265	273	ethylene	Chemical	MESH:C036216
+26663391	427	435	ethylene	Chemical	MESH:C036216
+26663391	437	439	ET	Chemical	MESH:C036216
+26663391	687	707	Arabidopsis thaliana	Species	3702
+26663391	772	776	ERF1	Gene	827464
+26663391	778	783	ORA59	Gene	837125
+26663391	785	789	ERF6	Gene	827463
+
+29280995|t|The autonomous flowering-time pathway pleiotropically regulates seed germination in Arabidopsis thaliana.
+29280995|a|Background and Aims: Two critical developmental transitions in plants are seed germination and flowering, and the timing of these transitions has strong fitness consequences. How genetically independent the regulation of these transitions is can influence the expression of life cycles. Method: This study tested whether genes in the autonomous flowering-time pathway pleiotropically regulate flowering time and seed germination in the genetic model Arabidopsis thaliana, and tested whether the interactions among those genes are concordant between flowering and germination stages. Key Results: Several autonomous-pathway genes promote flowering and impede germination. Moreover, the interactions among those genes were highly concordant between the regulation of flowering and germination. Conclusions: Despite some degree of functional divergence between the regulation of flowering and germination by autonomous-pathway genes, the autonomous pathway is highly functionally conserved across life stages. Therefore, genes in the autonomous flowering-time pathway are likely to contribute to genetic correlations between flowering and seed germination, possibly contributing to the winter-annual life history.
+29280995	84	104	Arabidopsis thaliana	Species	3702
+29280995	556	576	Arabidopsis thaliana	Species	3702
+
+16027134|t|New perspectives in flooding research: the use of shade avoidance and Arabidopsis thaliana.
+16027134|a|BACKGROUND: Complete submergence of Rumex palustris leads to hyponastic (upward) petiole growth followed by enhanced petiole elongation. Previous pharmacological experiments have provided insights into the signal transduction pathway leading to this combined 'escape' response. It will, however, be difficult to gain further knowledge using these methods. Consequently, new approaches are required. SCOPE: Here we propose that different environmental signals resulting in similar phenotypes can help to understand better the submergence response. In this review, we show that both ethylene and shade induce similar growth responses in R. palustris and Arabidopsis thaliana. We illustrate how this can be exploited to unravel novel signalling components in submergence-induced elongation growth. Furthermore, we illustrate the potential of arabidopsis as a useful model in submergence research based on similarities with submergence-tolerant species such as R. palustris and the molecular opportunities it presents. This is illustrated by examples of current work exploring this concept. CONCLUSIONS: Incorporating different model systems, such as arabidopsis and shade avoidance, into submergence research can be expected to create powerful tools to unravel signal transduction routes determining submergence tolerance.
+16027134	70	90	Arabidopsis thaliana	Species	3702
+16027134	128	143	Rumex palustris	Species	50298
+16027134	673	681	ethylene	Chemical	MESH:C036216
+16027134	727	739	R. palustris	Species	50298
+16027134	744	764	Arabidopsis thaliana	Species	3702
+16027134	931	942	arabidopsis	Species	3702
+16027134	1049	1061	R. palustris	Species	50298
+16027134	1239	1250	arabidopsis	Species	3702
+
+29611875|t|A molecular framework to study periderm formation in Arabidopsis.
+29611875|a|During secondary growth in most eudicots and gymnosperms, the periderm replaces the epidermis as the frontier tissue protecting the vasculature from biotic and abiotic stresses. Despite its importance, the mechanisms underlying periderm establishment and formation are largely unknown. The herbaceous Arabidopsis thaliana undergoes secondary growth, including periderm formation in the root and hypocotyl. Thus, we focused on these two organs to establish a framework to study periderm development in a model organism. We identified a set of characteristic developmental stages describing periderm growth from the first cell division in the pericycle to the shedding of the cortex and epidermis. We highlight that two independent mechanisms are involved in the loosening of the outer tissues as the endodermis undergoes programmed cell death, whereas the epidermis and the cortex are abscised. Moreover, the phellem of Arabidopsis, as in trees, is suberized, lignified and peels off. In addition, putative regulators from oak and potato are also expressed in the Arabidopsis periderm. Collectively, the periderm of Arabidopsis shares many characteristics/features of woody and tuberous periderms, rendering Arabidopsis thaliana an attractive model for cork biology.
+29611875	53	64	Arabidopsis	Species	3702
+29611875	98	106	eudicots	Species	71240
+29611875	367	387	Arabidopsis thaliana	Species	3702
+29611875	985	996	Arabidopsis	Species	3702
+29611875	1096	1102	potato	Species	4113
+29611875	1129	1140	Arabidopsis	Species	3702
+29611875	1181	1192	Arabidopsis	Species	3702
+29611875	1273	1293	Arabidopsis thaliana	Species	3702
+
+30102837|t|Involvement of lipid transfer proteins in resistance against a non-host powdery mildew in Arabidopsis thaliana.
+30102837|a|Non-specific lipid transfer proteins (LTPs) are involved in the transport of lipophilic compounds to the cuticular surface in epidermal cells and in the defence against pathogens. The role of glycophosphatidylinositol (GPI)-anchored LTPs (LTPGs) in resistance against non-host mildews in Arabidopsis thaliana was investigated using reverse genetics. Loss of either LTPG1, LTPG2, LTPG5 or LTPG6 increased the susceptibility to penetration of the epidermal cell wall by Blumeria graminis f. sp. hordei (Bgh). However, no impact on pre-penetration defence against another non-host mildew, Erysiphe pisi (Ep), was observed. LTPG1 was localized to papillae at the sites of Bgh penetration. This study shows that, in addition to the previously known functions, LTPGs contribute to pre-invasive defence against certain non-host powdery mildew pathogens.
+30102837	15	20	lipid	Chemical	MESH:D008055
+30102837	90	110	Arabidopsis thaliana	Species	3702
+30102837	304	329	glycophosphatidylinositol	Chemical	-
+30102837	331	334	GPI	Chemical	-
+30102837	400	420	Arabidopsis thaliana	Species	3702
+30102837	477	482	LTPG1	Gene	839688
+30102837	580	611	Blumeria graminis f. sp. hordei	Species	62688
+30102837	698	711	Erysiphe pisi	Species	36044
+30102837	713	715	Ep	Species	36044
+30102837	732	737	LTPG1	Gene	839688
+
+25139408|t|Arabidopsis thaliana IRX10 and two related proteins from psyllium and Physcomitrella patens are xylan xylosyltransferases.
+25139408|a|The enzymatic mechanism that governs the synthesis of the xylan backbone polymer, a linear chain of xylose residues connected by beta-1,4 glycosidic linkages, has remained elusive. Xylan is a major constituent of many kinds of plant cell walls, and genetic studies have identified multiple genes that affect xylan formation. In this study, we investigate several homologs of one of these previously identified xylan-related genes, IRX10 from Arabidopsis thaliana, by heterologous expression and in vitro xylan xylosyltransferase assay. We find that an IRX10 homolog from the moss Physcomitrella patens displays robust activity, and we show that the xylosidic linkage formed is a beta-1,4 linkage, establishing this protein as a xylan beta-1,4-xylosyltransferase. We also find lower but reproducible xylan xylosyltransferase activity with A. thaliana IRX10 and with a homolog from the dicot plant Plantago ovata, showing that xylan xylosyltransferase activity is conserved over large evolutionary distance for these proteins. 
+25139408	0	20	Arabidopsis thaliana	Species	3702
+25139408	21	26	IRX10	Gene	839635
+25139408	70	91	Physcomitrella patens	Species	3218
+25139408	181	186	xylan	Chemical	MESH:D014990
+25139408	196	203	polymer	Chemical	MESH:D011108
+25139408	223	229	xylose	Chemical	MESH:D014994
+25139408	252	271	beta-1,4 glycosidic	Chemical	-
+25139408	304	309	Xylan	Chemical	MESH:D014990
+25139408	431	436	xylan	Chemical	MESH:D014990
+25139408	554	559	IRX10	Gene	839635
+25139408	565	585	Arabidopsis thaliana	Species	3702
+25139408	675	680	IRX10	Gene	839635
+25139408	703	724	Physcomitrella patens	Species	3218
+25139408	961	972	A. thaliana	Species	3702
+25139408	973	978	IRX10	Gene	839635
+25139408	1019	1033	Plantago ovata	Species	185002
+
+32068156|t|Light Perception: A Matter of Time.
+32068156|a|Optimizing the perception of external cues and regulating physiology accordingly help plants to cope with the constantly changing environmental conditions to which they are exposed. An array of photoreceptors and intricate signaling pathways allow plants to convey the surrounding light information and synchronize an endogenous timekeeping system known as the circadian clock. This biological clock integrates multiple cues to modulate a myriad of downstream responses, timing them to occur at the best moment of the day and the year. Notably, the mechanism underlying entrainment of the light-mediated clock is not clear. This review addresses known interactions between the light signaling and circadian clock networks, focusing on the role of light in clock entrainment and the known molecular players in that process.
+
+26433582|t|The Arabidopsis thaliana NGATHA transcription factors negatively regulate cell proliferation of lateral organs.
+26433582|a|The cell proliferation process of aerial lateral organs, such as leaves and flowers, is coordinated by complex genetic networks that, in general, converge on the cell cycle. The Arabidopsis thaliana NGATHA (AtNGA) family comprises four members that belong to the B3-type transcription factor superfamily, and has been suggested to be involved in growth and development of aerial lateral organs, although its role in the cell proliferation and expansion processes remains to be resolved in more detail. In order to clarify the role of AtNGAs in lateral organ growth, we took a systematic approach using both the loss- and gain-of-functional mutants of all four members. Our results showed that overexpressors of AtNGA1 to AtNGA4 developed small, narrow lateral organs, whereas the nga1 nga2 nga3 nga4 quadruple mutant produced large, wide lateral organs. We found that cell numbers of the lateral organs were significantly affected: a decrease in overexpressors and, inversely, an increase in the quadruple mutant. Kinematic analyses on leaf growth revealed that, compared with the wild type, the overexpressors displayed a lower activity of cell proliferation and yet the mutant a higher activity. Changes in expression of cell cycle-regulating genes were well in accordance with the cell proliferation activities, establishing that the AtNGA transcription factors act as bona fide negative regulators of the cell proliferation of aerial lateral organs. 
+26433582	4	24	Arabidopsis thaliana	Species	3702
+26433582	290	310	Arabidopsis thaliana	Species	3702
+26433582	823	829	AtNGA1	Gene	819300
+26433582	833	839	AtNGA4	Gene	826750
+26433582	892	896	nga1	Gene	819300
+26433582	907	911	nga4	Gene	826750
+
+29027740|t|Effective tolerance based on resource reallocation is a virus-specific defence in Arabidopsis thaliana.
+29027740|a|Plant viruses often harm their hosts, which have developed mechanisms to prevent or minimize the effects of virus infection. Resistance and tolerance are the two main plant defences to pathogens. Although resistance to plant viruses has been studied extensively, tolerance has received much less attention. Theory predicts that tolerance to low-virulent parasites would be achieved through resource reallocation from growth to reproduction, whereas tolerance to high-virulent parasites would be attained through shortening of the pre-reproductive period. We have shown previously that the tolerance of Arabidopsis thaliana to Cucumber mosaic virus (CMV), a relatively low-virulent virus in this host, accords to these predictions. However, whether other viruses trigger the same response, and how A. thaliana copes with highly virulent virus infections remains unexplored. To address these questions, we challenged six A. thaliana wild genotypes with five viruses with different genomic structures, life histories and transmission modes. In these plants, we quantified virus multiplication, virulence, and the effects of infection on plant growth and reproduction, and on the developmental schedule. Our results indicate that virus multiplication varies according to the virus x host genotype interaction. Conversely, effective tolerance is observed only on CMV infection, and is associated with resource reallocation from growth to reproduction. Tolerance to the other viruses is observed only in specific host-virus combinations and, at odds with theoretical predictions, is linked to longer pre-reproductive periods. These findings only partially agree with theoretical predictions, and contribute to a better understanding of pathogenic processes in plant-virus interactions.
+29027740	82	102	Arabidopsis thaliana	Species	3702
+29027740	212	227	virus infection	Disease	MESH:D015658
+29027740	706	726	Arabidopsis thaliana	Species	3702
+29027740	730	751	Cucumber mosaic virus	Species	12305
+29027740	753	756	CMV	Species	12305
+29027740	901	912	A. thaliana	Species	3702
+29027740	931	956	virulent virus infections	Disease	MESH:D015658
+29027740	1023	1034	A. thaliana	Species	3702
+29027740	1225	1234	infection	Disease	MESH:D007239
+29027740	1462	1475	CMV infection	Disease	MESH:D007239
+
+28265986|t|Manipulation of Auxin and Cytokinin Balance During the Plasmodiophora brassicae-Arabidopsis thaliana Interaction.
+28265986|a|The symptoms of the clubroot disease on Brassica species caused by the obligate biotrophic protist Plasmodiophora brassicae relies, among other factors, on the modulation of plant hormones. Signaling, transport as well as biosynthesis and metabolism are key features how the levels of auxins and cytokinins are controlled. We here describe (a) how to inoculate the model plant Arabidopsis thaliana with P. brassicae, (b) qualitative and quantitative methods to evaluate disease severity in auxin and cytokinin mutants,
+28265986	55	79	Plasmodiophora brassicae	Species	37360
+28265986	80	100	Arabidopsis thaliana	Species	3702
+28265986	134	150	clubroot disease	Disease	MESH:D004194
+28265986	213	237	Plasmodiophora brassicae	Species	37360
+28265986	491	511	Arabidopsis thaliana	Species	3702
+28265986	517	529	P. brassicae	Species	37360
+
+20111677|t|A focus on natural variation for abiotic constraints response in the model species Arabidopsis thaliana.
+20111677|a|Plants are particularly subject to environmental stress, as they cannot move from unfavourable surroundings. As a consequence they have to react in situ. In any case, plants have to sense the stress, then the signal has to be transduced to engage the appropriate response. Stress response is effected by regulating genes, by turning on molecular mechanisms to protect the whole organism and its components and/or to repair damage. Reactions vary depending on the type of stress and its intensity, but some are commonly turned on because some responses to different abiotic stresses are shared. In addition, there are multiple ways for plants to respond to environmental stress, depending on the species and life strategy, but also multiple ways within a species depending on plant variety or ecotype. It is regularly accepted that populations of a single species originating from diverse geographic origins and/or that have been subjected to different selective pressure, have evolved retaining the best alleles for completing their life cycle. Therefore, the study of natural variation in response to abiotic stress, can help unravel key genes and alleles for plants to cope with their unfavourable physical and chemical surroundings. This review is focusing on Arabidopsis thaliana which has been largely adopted by the global scientific community as a model organism. Also, tools and data that facilitate investigation of natural variation and abiotic stress encountered in the wild are set out. Characterization of accessions, QTLs detection and cloning of alleles responsible for variation are presented.
+20111677	83	103	Arabidopsis thaliana	Species	3702
+20111677	1368	1388	Arabidopsis thaliana	Species	3702
+
+28103793|t|Short oligogalacturonides induce pathogen resistance-associated gene expression in Arabidopsis thaliana.
+28103793|a|BACKGROUND: Oligogalacturonides (OGs) are important components of damage-associated molecular pattern (DAMP) signaling and influence growth regulation in plants. Recent studies have focused on the impact of long OGs (degree of polymerization (DP) from 10-15), demonstrating the induction of plant defense signaling resulting in enhanced defenses to necrotrophic pathogens. To clarify the role of trimers (trimeric OGs, DP3) in DAMP signaling and their impact on plant growth regulation, we performed a transcriptomic analysis through the RNA sequencing of Arabidopsis thaliana exposed to trimers. RESULTS: The transcriptomic data from trimer-treated Arabidopsis seedlings indicate a clear activation of genes involved in defense signaling, phytohormone signaling and a down-regulation of genes involved in processes related to growth regulation and development. This is further accompanied with improved defenses against necrotrophic pathogens triggered by the trimer treatment, indicating that short OGs have a clear impact on plant responses, similar to those described for long OGs. CONCLUSIONS: Our results demonstrate that trimers are indeed active elicitors of plant defenses. This is clearly indicated by the up-regulation of genes associated with plant defense signaling, accompanied with improved defenses against necrotrophic pathogens. Moreover, trimers simultaneously trigger a clear down-regulation of genes and gene sets associated with growth and development, leading to stunted seedling growth in Arabidopsis.
+28103793	6	25	oligogalacturonides	Chemical	-
+28103793	83	103	Arabidopsis thaliana	Species	3702
+28103793	117	136	Oligogalacturonides	Chemical	-
+28103793	138	141	OGs	Chemical	-
+28103793	661	681	Arabidopsis thaliana	Species	3702
+28103793	755	766	Arabidopsis	Species	3702
+28103793	1618	1629	Arabidopsis	Species	3702
+
+26867611|t|Assessing Gravitropic Responses in Arabidopsis.
+26867611|a|Arabidopsis thaliana was the first higher organism to have its genome sequenced and is now widely regarded as the model dicot. Like all plants, Arabidopsis develops distinct growth patterns in response to different environmental stimuli. This can be seen in the gravitropic response of roots. Methods to investigate this particular tropism are presented here. First, we describe a high-throughput time-lapse photographic analysis of root growth and curvature response to gravistimulation allowing the quantification of gravitropic kinetics and growth rate at high temporal resolution. Second, we present a protocol that allows a quantitative evaluation of gravitropic sensitivity using a homemade 2D clinostat. Together, these approaches allow an initial comparative analysis of the key phenomena associated with root gravitropism between different genotypes and/or accessions. 
+26867611	35	46	Arabidopsis	Species	3702
+26867611	48	68	Arabidopsis thaliana	Species	3702
+26867611	192	203	Arabidopsis	Species	3702
+26867611	748	757	clinostat	Chemical	-
+
+24306857|t|Fully automated compound screening in Arabidopsis thaliana seedlings.
+24306857|a|High-throughput small molecule screenings in model plants are of great value to identify compounds that interfere with plant developmental processes. In academic research, the plant Arabidopsis thaliana is the most commonly used model organism for this purpose. However, compared to plant cellular systems, A. thaliana plants are less amenable to develop high-throughput screening assays. In this chapter, we describe a screening procedure that is compatible with liquid handling systems and increases the throughput of compound screenings in A. thaliana seedlings. 
+24306857	38	58	Arabidopsis thaliana	Species	3702
+24306857	252	272	Arabidopsis thaliana	Species	3702
+24306857	377	388	A. thaliana	Species	3702
+24306857	613	624	A. thaliana	Species	3702
+
+24433542|t|The karrikin response system of Arabidopsis.
+24433542|a|Arabidopsis thaliana provides a powerful means to investigate the mode of action of karrikins, compounds produced during wildfires that stimulate germination of seeds of fire-following taxa. These studies have revealed close parallels between karrikin signalling and strigolactone signalling. The two perception systems employ similar mechanisms involving closely related alpha/beta-fold hydrolases (KAI2 and AtD14) and a common F-box protein (MAX2). However, karrikins and strigolactones may be distinguished from each other and elicit different responses. The karrikin response requires a newly discovered protein (SMAX1), a homologue of rice protein D53 that is required for the strigolactone response. Mutants defective in the response to karrikins have seeds with increased dormancy, altered seedling photomorphogenesis and modified leaf shape. As the karrikin and strigolactone response mechanisms are so similar, it is speculated that the endogenous signalling compound for the KAI2 system may be a specific strigolactone. However, new results show that the proposed endogenous signalling compound is not produced by the known strigolactone biosynthesis pathway via carlactone. Structural studies of KAI2 protein and its interaction with karrikins and strigolactone analogues provide some insight into possible protein-ligand interactions, but are hampered by lack of knowledge of the endogenous ligand. The KAI2 system appears to be present throughout angiosperms, implying a fundamentally important function in plant biology. 
+24433542	32	43	Arabidopsis	Species	3702
+24433542	45	65	Arabidopsis thaliana	Species	3702
+24433542	312	325	strigolactone	Chemical	-
+24433542	445	449	KAI2	Gene	829902
+24433542	454	459	AtD14	Gene	819554
+24433542	489	493	MAX2	Gene	818862
+24433542	519	533	strigolactones	Chemical	-
+24433542	685	689	rice	Species	4530
+24433542	727	740	strigolactone	Chemical	-
+24433542	915	928	strigolactone	Chemical	-
+24433542	1030	1034	KAI2	Gene	829902
+24433542	1060	1073	strigolactone	Chemical	-
+24433542	1179	1192	strigolactone	Chemical	-
+24433542	1218	1228	carlactone	Chemical	MESH:C571055
+24433542	1252	1256	KAI2	Gene	829902
+24433542	1304	1317	strigolactone	Chemical	-
+24433542	1460	1464	KAI2	Gene	829902
+24433542	1505	1516	angiosperms	Species	3398
+
+30235047|t|Possible inhibition of Arabidopsis VIP1-mediated mechanosensory signaling by streptomycin.
+30235047|a|VIP1 (VIRE2-INTERACTING PROTEIN 1) and its close homologues are Arabidopsis thaliana bZIP proteins regulating stress responses and root tropisms. They are present in the cytoplasm under steady conditions, but transiently accumulate in the nucleus when cells are exposed to mechanical stress such as hypo-osmotic stress and touch. This pattern of changes in subcellular localization is unique to VIP1 and its close homologues, and can be useful to further characterize mechanical stress signaling in plants. A recent study showed that calcium signaling regulates this pattern of subcellular localization. Here, we show that a possible calcium channel inhibitor, streptomycin, also inhibits the nuclear accumulation of VIP1. Candidates for the specific regulators of the mechanosensitive calcium signaling are further discussed.
+30235047	23	34	Arabidopsis	Species	3702
+30235047	35	39	VIP1	Gene	840957
+30235047	77	89	streptomycin	Chemical	MESH:D013307
+30235047	91	95	VIP1	Gene	840957
+30235047	97	124	VIRE2-INTERACTING PROTEIN 1	Gene	840957
+30235047	155	175	Arabidopsis thaliana	Species	3702
+30235047	176	180	bZIP	Gene	843221
+30235047	390	409	hypo-osmotic stress	Disease	MESH:D004194
+30235047	486	490	VIP1	Gene	840957
+30235047	625	632	calcium	Chemical	MESH:D002118
+30235047	752	764	streptomycin	Chemical	MESH:D013307
+30235047	808	812	VIP1	Gene	840957
+30235047	877	884	calcium	Chemical	MESH:D002118
+
+32673998|t|Glutathione: A key player in metal chelation, nutrient homeostasis, cell cycle regulation and the DNA damage response in cadmium-exposed Arabidopsis thaliana.
+32673998|a|Glutathione (GSH) is an important player in plant responses to cadmium (Cd) through its dual function as an antioxidant and precursor for metal-chelating phytochelatins (PCs). In addition, it was shown to be involved in cell cycle regulation in Arabidopsis thaliana roots, but its involvement in this process in leaves is largely unknown and has never been evaluated in Cd-exposed plants. This study aimed to elucidate the role of GSH in leaf growth and development, metal chelation, nutrient homeostasis and cell cycle regulation in A. thaliana plants upon prolonged Cd exposure. Responses were compared between wild-type (WT) plants and three GSH-deficient mutants. Our results indicate that PC production remains important in plants exposed to Cd for an extended duration. Furthermore, an important role for GSH in regulating nutrient homeostasis in Cd-exposed plants was revealed. Cell cycle analysis demonstrated that negative effects of Cd exposure on cell division and endoreplication were more pronounced in leaves of the GSH-deficient cadmium-sensitive 2-1 (cad2-1) mutant in comparison to the WT, indicating the involvement of GSH in cell cycle regulation. Finally, a crucial role for GSH in transcriptional activation of the Cd-induced DNA damage response (DDR) was revealed, as the Cd-induced upregulation of DDR-related genes was either less pronounced or completely abolished in leaves of the GSH-deficient mutants.
+32673998	0	11	Glutathione	Chemical	MESH:D005978
+32673998	29	34	metal	Chemical	MESH:D008670
+32673998	121	128	cadmium	Chemical	MESH:D002104
+32673998	137	157	Arabidopsis thaliana	Species	3702
+32673998	159	170	Glutathione	Chemical	MESH:D005978
+32673998	172	175	GSH	Chemical	MESH:D005978
+32673998	222	229	cadmium	Chemical	MESH:D002104
+32673998	231	233	Cd	Chemical	MESH:D002104
+32673998	297	302	metal	Chemical	MESH:D008670
+32673998	404	424	Arabidopsis thaliana	Species	3702
+32673998	529	531	Cd	Chemical	MESH:D002104
+32673998	590	593	GSH	Chemical	MESH:D005978
+32673998	626	631	metal	Chemical	MESH:D008670
+32673998	693	704	A. thaliana	Species	3702
+32673998	727	729	Cd	Chemical	MESH:D002104
+32673998	804	807	GSH	Chemical	MESH:D005978
+32673998	906	908	Cd	Chemical	MESH:D002104
+32673998	970	973	GSH	Chemical	MESH:D005978
+32673998	1012	1014	Cd	Chemical	MESH:D002104
+32673998	1102	1104	Cd	Chemical	MESH:D002104
+32673998	1189	1192	GSH	Chemical	MESH:D005978
+32673998	1203	1210	cadmium	Chemical	MESH:D002104
+32673998	1226	1230	cad2	Gene	816710
+32673998	1296	1299	GSH	Chemical	MESH:D005978
+32673998	1354	1357	GSH	Chemical	MESH:D005978
+32673998	1395	1397	Cd	Chemical	MESH:D002104
+32673998	1453	1455	Cd	Chemical	MESH:D002104
+32673998	1566	1569	GSH	Chemical	MESH:D005978
+
+25187356|t|Arabidopsis thaliana homeobox 12 (ATHB12), a homeodomain-leucine zipper protein, regulates leaf growth by promoting cell expansion and endoreduplication.
+25187356|a|Arabidopsis thaliana homeobox 12 (ATHB12), a homeodomain-leucine zipper class I (HD-Zip I) gene, is highly expressed in leaves and stems, and induced by abiotic stresses, but its role in development remains obscure. To understand its function during plant development, we studied the effects of loss and gain of function. Expression of ATHB12 fused to the EAR-motif repression domain (SRDX) - P35 S ::ATHB12SRDX (A12SRDX) and PATHB 12 ::ATHB12SRDX - slowed both leaf and root growth, while the growth of ATHB12-overexpressing seedlings (A12OX) was accelerated. Microscopic examination revealed changes in the size and number of leaf cells. Ploidy was reduced in A12SRDX plants, accompanied by decreased cell expansion and increased cell numbers. By contrast, cell size was increased in A12OX plants, along with increased ploidy and elevated expression of cell cycle switch 52s (CCS52s), which are positive regulators of endoreduplication, indicating that ATHB12 promotes leaf cell expansion and endoreduplication. Overexpression of ATHB12 led to decreased phosphorylation of Arabidopsis thaliana ribosomal protein S6 (AtRPS6), a regulator of cell growth. In addition, induction of ATHB12 in the presence of cycloheximide increased the expression of several genes related to cell expansion, such as EXPANSIN A10 (EXPA10) and DWARF4 (DWF4). Our findings strongly suggest that ATHB12 acts as a positive regulator of endoreduplication and cell growth during leaf development.
+25187356	0	20	Arabidopsis thaliana	Species	3702
+25187356	21	32	homeobox 12	Gene	825362
+25187356	34	40	ATHB12	Gene	825362
+25187356	154	174	Arabidopsis thaliana	Species	3702
+25187356	175	186	homeobox 12	Gene	825362
+25187356	188	194	ATHB12	Gene	825362
+25187356	235	243	HD-Zip I	Disease	MESH:D006816
+25187356	490	496	ATHB12	Gene	825362
+25187356	547	552	P35 S	ProteinMutation	p.P35S
+25187356	658	664	ATHB12	Gene	825362
+25187356	1109	1115	ATHB12	Gene	825362
+25187356	1186	1192	ATHB12	Gene	825362
+25187356	1229	1249	Arabidopsis thaliana	Species	3702
+25187356	1272	1278	AtRPS6	Gene	834690
+25187356	1335	1341	ATHB12	Gene	825362
+25187356	1361	1374	cycloheximide	Chemical	MESH:D003513
+25187356	1452	1464	EXPANSIN A10	Gene	839218
+25187356	1466	1472	EXPA10	Gene	839218
+25187356	1478	1484	DWARF4	Gene	824229
+25187356	1486	1490	DWF4	Gene	824229
+25187356	1528	1534	ATHB12	Gene	825362
+
+29779109|t|The Gene Encoding the Universal Stress Protein AtUSP is Regulated by Phytohormones and Involved in Seed Germination of Arabidopsis thaliana.
+29779109|a|For the first time, the organ-specific expression pattern of the AtUSP (At3g58450) gene, which also undergoes hormonal regulation, was shown. The USP protein encoded by this gene is involved in seed germination of Arabidopsis thaliana and, unlike abscisic acid, stimulates this process.
+29779109	47	52	AtUSP	Gene	835333
+29779109	119	139	Arabidopsis thaliana	Species	3702
+29779109	206	211	AtUSP	Gene	835333
+29779109	213	223	At3g58450)	Gene	825014
+29779109	287	290	USP	Gene	835333
+29779109	355	375	Arabidopsis thaliana	Species	3702
+29779109	388	401	abscisic acid	Chemical	MESH:D000040
+
+30482280|t|Reduction of geomagnetic field (GMF) to near null magnetic field (NNMF) affects Arabidopsis thaliana root mineral nutrition.
+30482280|a|The Earth magnetic field (or geomagnetic field, GMF) is a natural component of our planet and variations of the GMF are perceived by plants with a still uncharacterized magnetoreceptor. The purpose of this work was to assess the effect of near null magnetic field (NNMF, ~40 nT) on Arabidopsis thaliana Col0 root ion modulation. A time-course (from 10 min to 96 h) exposure of Arabidopsis to NNMF was compared to GMF and the content of some cations (NH4+, K+, Ca2+ and Mg2+) and anions (Cl-, SO4=, NO3- and PO4=) was evaluated by capillary electrophoresis. The expression of several cation and anion channel- and transporter-related genes was assessed by gene microarray. A few minutes after exposure to NNMF, Arabidopsis roots responded with a significant change in the content and gene expression of all nutrient ions under study, indicating the presence of a plant magnetoreceptor that responds immediately to MF variations by modulating channels, transporters and genes involved in mineral nutrition. The response of Arabidopsis to reduced MF was a general reduction of plant ion uptake and transport. Our data suggest the importance to understand the nature and function of the plant magnetoreceptor for future space programs involving plant growth in environments with a reduced MF.
+30482280	80	100	Arabidopsis thaliana	Species	3702
+30482280	407	427	Arabidopsis thaliana	Species	3702
+30482280	502	513	Arabidopsis	Species	3702
+30482280	517	521	NNMF	Chemical	-
+30482280	538	541	GMF	Chemical	-
+30482280	575	579	NH4+	Chemical	-
+30482280	585	589	Ca2+	Chemical	MESH:D000069285
+30482280	594	598	Mg2+	Chemical	-
+30482280	617	620	SO4	Chemical	-
+30482280	623	626	NO3	Chemical	MESH:C038619
+30482280	632	635	PO4	Chemical	-
+30482280	835	846	Arabidopsis	Species	3702
+30482280	1146	1157	Arabidopsis	Species	3702
+
+11539858|t|How do plant shoots bend up?  The initial step to elucidate the molecular mechanisms of shoot gravitropism using Arabidopsis thaliana.
+11539858|a|In higher plants, shoots show a negative gravitropic response. To elucidate the molecular mechanisms of this phenomenon, mutational analyses using Arabidopsis thaliana are in progress. This minireview aims to present recent developments in the genetic analysis of shoot gravitropism in this organism. We focus mainly on our studies on the novel shoot gravitropic (sgr) mutants in Arabidopsis thaliana that have dramatic defects in shoot gravitropism.
+11539858	113	133	Arabidopsis thaliana	Species	3702
+11539858	138	151	higher plants	Species	3193
+11539858	282	302	Arabidopsis thaliana	Species	3702
+11539858	515	535	Arabidopsis thaliana	Species	3702
+
+28653222|t|Anatomical responses of leaf and stem of Arabidopsis thaliana to nitrogen and phosphorus addition.
+28653222|a|Nitrogen (N) and phosphorus (P) availabilities play crucial roles in plant morphogenesis and physiological processes, but how plant anatomical traits respond to the N and P supply is not well elucidated. We evaluated the effects of N and P supply on multiple leaf and stem anatomical traits of Arabidopsis thaliana. The addition of N increased the stem diameter, cortex thickness, rosette radius, midrib thickness, and size of leaf and stem vasculature significantly. Abaxial stomatal length (LSL) increased while adaxial epidermal cell density decreased significantly with increasing N supply. P addition did not affect stem size and leaf epidermal traits, but enhanced the thickness of stem xylem. The nutrient limiting status did not affect most traits except for LSL. The anatomical traits measured varied a lot in the extent of response to N and P addition, despite relatively stronger response to N addition overall. Cortex thickness, rosette radius, stomatal density and epidermal cell density exhibited relatively high plasticity to both nutrients, while stomatal length and stomatal index were relatively stable. Thus, these results suggested that the anatomical traits of shoot vasculature of A. thaliana were enhanced by both nutrients but more affected by N addition, satisfying the plant growth and nutrient requirements. Our findings may help shed light on plant adaptation to nutrient availability changes under the ongoing anthropogenic impacts, but the generality across numerous plant species still warrants further researches.
+28653222	41	61	Arabidopsis thaliana	Species	3702
+28653222	65	73	nitrogen	Chemical	MESH:D009584
+28653222	78	88	phosphorus	Chemical	MESH:D010758
+28653222	99	107	Nitrogen	Chemical	MESH:D009584
+28653222	116	126	phosphorus	Chemical	MESH:D010758
+28653222	331	332	N	Chemical	MESH:D009584
+28653222	337	338	P	Chemical	MESH:D010758
+28653222	393	413	Arabidopsis thaliana	Species	3702
+28653222	567	583	Abaxial stomatal	Disease	MESH:D013280
+28653222	684	685	N	Chemical	MESH:D009584
+28653222	1302	1313	A. thaliana	Species	3702
+

@@ -1,0 +1,1 @@
+25187356	547	552	P35 S	ProteinMutation	p.P35S
