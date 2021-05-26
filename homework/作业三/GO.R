@@ -16,6 +16,7 @@ MyGeneIDSet2 = bitr(MyGeneSet2$V1,
                     toType=c("ENSEMBL","ENTREZID", "GO"),
                     OrgDb="org.Hs.eg.db")
 head(MyGeneIDSet2,2)
+data(geneList, package="DOSE")
 
 ego_ALL <- enrichGO(gene = MyGeneIDSet2$ENTREZID, 
                     universe = names(geneList),
