@@ -1,5 +1,7 @@
 library(ggplot)
-
+library(org.Hs.eg.db)
+library(pathview)
+library(clusterProfiler)
 
 HPO.EnrichToFile <- function(GeneList, genesToPhenotypeToDisease, SaveFileName = "HPO") {
   
